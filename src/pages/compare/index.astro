@@ -1,0 +1,8 @@
+---
+import Base from '../../layouts/Base.astro';
+import { pairs, bySlug, u } from '../../lib/site.js';
+---
+<Base title="Compare AI Recruiting Tools" description="Side-by-side comparisons of popular AI recruiting tools." path="/compare/">
+<div class="hero"><h1>Compare AI recruiting tools</h1></div>
+<div class="grid">{pairs.map(([a,b])=><a class="card" href={u(`/compare/${a}-vs-${b}/`)}><h3>{bySlug(a).name} vs {bySlug(b).name}</h3></a>)}</div>
+</Base>
