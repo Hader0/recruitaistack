@@ -17,6 +17,9 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      SITE_URL: https://hader0.github.io
+      BASE_PATH: /recruitaistack
     steps:
       - uses: actions/checkout@v4
       - uses: actions/configure-pages@v5
