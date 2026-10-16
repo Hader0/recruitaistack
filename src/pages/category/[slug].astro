@@ -1,0 +1,14 @@
+---
+import Base from '../../layouts/Base.astro';
+import ToolCard from '../../components/ToolCard.astro';
+import { tools, categories, SITE, u } from '../../lib/site.js';
+export function getStaticPaths(){ return categories.map((c)=>({params:{slug:c.slug},props:{c}})); }
+const { c } = Astro.props;
+const list = tools.filter((t)=>t.categories.includes(c.slug));
+const schema={'@context':'https://schema.org','@type':'ItemList',name:`AI ${c.name} tools for recruiters`,itemListElement:list.map((t,i)=>({'@type':'ListItem',position:i+1,url:`${SITE.url}/tools/${t.slug}/`,name:t.name}))};
+---
+<Base title={`${list.length} AI ${c.name} Tools for Recruiters (2026)`} description={`${c.blurb} Compare ${list.length} AI ${c.name.toLowerCase()} tools with pricing and features.`} schema={schema} path={`/category/${c.slug}/`}>
+<p class="crumbs"><a href={u("/")}>Home</a> / {c.name}</p>
+<div class="hero"><h1>AI {c.name} tools for recruiters</h1><p>{c.blurb} {list.length} tools listed. See also <a href={u(`/best/${c.slug}/`)}>the best AI for {c.task}</a>.</p></div>
+<div class="grid">{list.map((t)=><ToolCard t={t} />)}</div>
+</Base>

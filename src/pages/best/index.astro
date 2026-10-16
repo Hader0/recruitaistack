@@ -1,0 +1,8 @@
+---
+import Base from '../../layouts/Base.astro';
+import { categories, u } from '../../lib/site.js';
+---
+<Base title="Best AI for Recruiting Tasks" description="The best AI tools for each recruiting task." path="/best/">
+<div class="hero"><h1>Best AI for…</h1></div>
+<div class="grid">{categories.map((c)=><a class="card" href={u(`/best/${c.slug}/`)}><h3>Best AI for {c.task}</h3><p>{c.blurb}</p></a>)}</div>
+</Base>
