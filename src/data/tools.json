@@ -1,0 +1,3428 @@
+[
+ {
+  "slug": "hireez",
+  "name": "hireEZ",
+  "url": "https://hireez.com",
+  "categories": [
+   "sourcing",
+   "outreach"
+  ],
+  "description": "End-to-end agentic recruiting for enterprise teams: EZ Agent sources, reviews, screens and schedules on top of your ATS. Recruiters approve every decision.",
+  "pricing": "Solo recruiters from $494/mo (7-day free trial); enterprise: contact sales",
+  "features": [
+   "Agentic sourcing, review, screening and scheduling",
+   "Works on top of your existing ATS",
+   "Recruiter approves every decision"
+  ],
+  "bestFor": "Enterprise and solo recruiters wanting agent-driven sourcing",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "seekout",
+  "name": "SeekOut",
+  "url": "https://www.seekout.com",
+  "categories": [
+   "sourcing",
+   "screening"
+  ],
+  "description": "SeekOut is the agentic AI recruiting platform used by 750+ enterprises. Source from 1B+ profiles, screen applicants with AI, and engage candidates at scale.",
+  "pricing": "Sourcing Core from $149/mo billed annually or $179/mo monthly (14-day free trial)",
+  "features": [
+   "Search 1B+ candidate profiles",
+   "AI applicant screening",
+   "Candidate engagement"
+  ],
+  "bestFor": "Teams adding their first dedicated sourcing seat",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "juicebox",
+  "name": "Juicebox",
+  "url": "https://juicebox.ai",
+  "categories": [
+   "sourcing",
+   "outreach"
+  ],
+  "description": "Find, verify, and email perfect-fit candidates in one prompt. Search 800M+ profiles across 30+ sources and hire faster with AI",
+  "pricing": "Free plan; Starter $99/seat/mo; Growth $179/seat/mo; Agents add-on $199/agent/mo",
+  "features": [
+   "Natural-language search (PeopleGPT) across 800M+ profiles",
+   "Email outreach with AI templates",
+   "Background sourcing agents"
+  ],
+  "bestFor": "Agency recruiters who want prompt-based search",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "fetcher",
+  "name": "Fetcher",
+  "url": "https://fetcher.ai",
+  "categories": [
+   "sourcing",
+   "outreach"
+  ],
+  "description": "Your AI recruiter \u2014 automating passive and active sourcing. Cut time-to-hire with AI recruiting software and sourcing tools for talent teams.",
+  "pricing": "Self-serve $115/mo; Growth $379/mo; Amplify $649/mo",
+  "features": [
+   "Automated passive and active sourcing",
+   "Outreach sequences",
+   "AI assistance through to interviews"
+  ],
+  "bestFor": "Small talent teams automating top-of-funnel",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "gem",
+  "name": "Gem",
+  "url": "https://www.gem.com",
+  "categories": [
+   "crm-ats",
+   "outreach",
+   "analytics"
+  ],
+  "description": "Gem",
+  "pricing": "Contact for pricing",
+  "features": [
+   "AI-first ATS and recruiting CRM",
+   "Talent rediscovery",
+   "Pipeline analytics"
+  ],
+  "bestFor": "Scaling in-house TA teams",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "findem",
+  "name": "Findem",
+  "url": "https://www.findem.ai",
+  "categories": [
+   "sourcing",
+   "analytics"
+  ],
+  "description": "Findem combines trusted people data and AI to help teams source, hire, develop, and plan their workforce with greater speed and confidence.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "People data combined with AI",
+   "Sourcing and talent intelligence",
+   "Workforce planning"
+  ],
+  "bestFor": "Enterprise TA and workforce planning",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "loxo",
+  "name": "Loxo",
+  "url": "https://www.loxo.co",
+  "categories": [
+   "crm-ats",
+   "sourcing"
+  ],
+  "description": "Turn your recruiting firm's messy tech stack into one disciplined, intelligent workflow with Loxo's AI recruiting platform.",
+  "pricing": "From $149/user/mo billed annually; Professional $199 tier with sourcing credits",
+  "features": [
+   "ATS + recruiting CRM in one",
+   "Built-in sourcing credits",
+   "Workflow automation for firms"
+  ],
+  "bestFor": "Recruiting and executive search firms",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "recruitcrm",
+  "name": "Recruit CRM",
+  "url": "https://recruitcrm.io",
+  "categories": [
+   "crm-ats",
+   "outreach"
+  ],
+  "description": "Recruit CRM helps growing firms manage every step of recruitment with ATS + CRM, AI agents, automation, outreach, and timesheets built into one platform.",
+  "pricing": "Pro $95/user/mo; Business $135/user/mo (annual billing; free trial)",
+  "features": [
+   "ATS + CRM for agencies",
+   "AI agents and automation",
+   "Outreach and timesheets"
+  ],
+  "bestFor": "Growing recruitment agencies",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "25% recurring for up to 12 months",
+   "url": "https://recruitcrm.io/revenue-sharing-affiliate-program/",
+   "found": true
+  }
+ },
+ {
+  "slug": "manatal",
+  "name": "Manatal",
+  "url": "https://www.manatal.com",
+  "categories": [
+   "crm-ats",
+   "sourcing"
+  ],
+  "description": "AI Recruitment Software designed to source and hire candidates faster. Tailored for HR teams, recruitment agencies, and headhunters.",
+  "pricing": "Professional $15/user/mo; Enterprise $35; Enterprise Plus $55 (annual; monthly plans cost more)",
+  "features": [
+   "AI candidate recommendations",
+   "Job posting and pipeline",
+   "Agency CRM features"
+  ],
+  "bestFor": "Budget-conscious agencies and SMB HR teams",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "20% recurring, 90-day cookie",
+   "url": "https://www.manatal.com/affiliate-program",
+   "found": true
+  }
+ },
+ {
+  "slug": "greenhouse",
+  "name": "Greenhouse",
+  "url": "https://www.greenhouse.com",
+  "categories": [
+   "crm-ats",
+   "analytics"
+  ],
+  "description": "Greenhouse is more than a hiring platform or ATS. We\u2019re a complete hiring ecosystem that brings employers and job seekers together in one place.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "Structured hiring ATS",
+   "Large integration marketplace",
+   "Hiring reports"
+  ],
+  "bestFor": "Mid-market and enterprise companies",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "lever",
+  "name": "Lever",
+  "url": "https://www.lever.co",
+  "categories": [
+   "crm-ats"
+  ],
+  "description": "Lever is modern recruiting software that combines ATS and CRM capabilities to help scaling teams nurture talent relationships and hire efficiently.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "Combined ATS and CRM",
+   "Candidate nurturing",
+   "Hiring analytics"
+  ],
+  "bestFor": "Scaling companies that nurture talent pools",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "workable",
+  "name": "Workable",
+  "url": "https://www.workable.com",
+  "categories": [
+   "crm-ats",
+   "screening"
+  ],
+  "description": "Workable is your system of record for everything HR. Find, hire, and manage top talent effortlessly. Trusted by 35,000+ companies across 100+ countries. Start your free trial today.",
+  "pricing": "Standard bundle from $299/mo; Premier $599/mo (as shown for 1\u201320 employees, annual)",
+  "features": [
+   "ATS plus HR system of record",
+   "Add-ons for texting, video interviews, assessments",
+   "AI recruiting features"
+  ],
+  "bestFor": "SMBs wanting recruiting and HR in one",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "ashby",
+  "name": "Ashby",
+  "url": "https://www.ashbyhq.com",
+  "categories": [
+   "crm-ats",
+   "analytics",
+   "interview-scheduling"
+  ],
+  "description": "Ashby\u2019s all-in-one recruiting software consolidates your ATS, Analytics, Scheduling, and CRM",
+  "pricing": "Price calculator on site (varies by company size); contact for exact quote",
+  "features": [
+   "All-in-one ATS, CRM, scheduling and analytics",
+   "Advanced reporting",
+   "Automation"
+  ],
+  "bestFor": "Fast-growing startups wanting deep analytics",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "bullhorn",
+  "name": "Bullhorn",
+  "url": "https://www.bullhorn.com",
+  "categories": [
+   "crm-ats"
+  ],
+  "description": "Automate your recruiting lifecycle and increase placements by up to 43% with Bullhorn\u2019s software for recruiters. Explore our leading recruiting CRM.",
+  "pricing": "Starter $99/user/mo; Core $165/user/mo (quote required)",
+  "features": [
+   "Staffing ATS and CRM",
+   "Automation across the recruiting lifecycle",
+   "Large marketplace"
+  ],
+  "bestFor": "Staffing agencies",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "recruitee",
+  "name": "Recruitee",
+  "url": "https://recruitee.com",
+  "categories": [
+   "crm-ats"
+  ],
+  "description": "Tellent Recruitee helps you hire faster, work better together, and win top talent without the bottleneck; powered by AI-driven features.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "Customisable ATS",
+   "Collaborative hiring",
+   "AI-driven features"
+  ],
+  "bestFor": "European SMB and mid-market teams",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "breezyhr",
+  "name": "Breezy HR",
+  "url": "https://breezy.hr",
+  "categories": [
+   "crm-ats"
+  ],
+  "description": "Improve your entire hiring process with Breezy HR. Our applicant tracking system (ATS) helps you attract & hire quality employees in less time.",
+  "pricing": "Plans from $157/mo billed annually ($189 monthly); add-ons extra",
+  "features": [
+   "ATS with pipelines",
+   "SMS and messaging add-ons",
+   "Onboarding add-on"
+  ],
+  "bestFor": "Small teams hiring regularly",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "Affiliate program exists; terms not shown publicly",
+   "url": "https://breezy.hr/partners",
+   "found": true
+  }
+ },
+ {
+  "slug": "jazzhr",
+  "name": "JazzHR",
+  "url": "https://www.jazzhr.com",
+  "categories": [
+   "crm-ats"
+  ],
+  "description": "JazzHR is powerful, user-friendly, and affordable recruiting software built to help small to medium-sized businesses hire smarter and faster.",
+  "pricing": "Hero $1,000/yr; Plus $3,480/yr; Pro $5,508/yr (billed annually)",
+  "features": [
+   "Easy job posting to free boards",
+   "Pipeline management",
+   "Offer letters and e-signatures"
+  ],
+  "bestFor": "Small and medium businesses",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "paradox",
+  "name": "Paradox",
+  "url": "https://www.paradox.ai",
+  "categories": [
+   "interview-scheduling",
+   "screening"
+  ],
+  "description": "We believe every great hire starts with hello. Our conversational software automates recruiting tasks like screening, interview scheduling, and onboarding to get your candidates from hello to hired faster, and easier, than ever.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "Conversational AI assistant",
+   "Automated screening and scheduling",
+   "Onboarding automation"
+  ],
+  "bestFor": "High-volume hourly hiring",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "goodtime",
+  "name": "GoodTime",
+  "url": "https://goodtime.io",
+  "categories": [
+   "interview-scheduling",
+   "analytics"
+  ],
+  "description": "GoodTime's AI handles the toughest scheduling challenges, surfaces insights, and helps teams orchestrate brilliant hiring experiences.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "AI interview scheduling",
+   "Interviewer load balancing",
+   "Scheduling insights"
+  ],
+  "bestFor": "Enterprise teams with complex interview loops",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "calendly",
+  "name": "Calendly",
+  "url": "https://calendly.com",
+  "categories": [
+   "interview-scheduling"
+  ],
+  "description": "Calendly connects and simplifies all of the work around meetings, from scheduling, payments, and meeting prep to notetaking, contact management, and follow-up.",
+  "pricing": "Free plan; paid plans per seat (see vendor pricing page); Enterprise from $15k/yr",
+  "features": [
+   "Booking links",
+   "Round-robin routing",
+   "AI notetaker add-on"
+  ],
+  "bestFor": "Small teams scheduling screens",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "modernloop",
+  "name": "ModernLoop",
+  "url": "https://www.modernloop.io",
+  "categories": [
+   "interview-scheduling"
+  ],
+  "description": "Streamline your hiring process with automated interview scheduling. Sync calendars, compare workloads & more to enhance your recruitment efficiency!",
+  "pricing": "Contact for pricing",
+  "features": [
+   "Automated interview scheduling",
+   "Calendar sync",
+   "Interviewer workload comparison"
+  ],
+  "bestFor": "Tech companies with heavy interview loads",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "hirevue",
+  "name": "HireVue",
+  "url": "https://www.hirevue.com",
+  "categories": [
+   "assessments",
+   "screening",
+   "interview-scheduling"
+  ],
+  "description": "Hirevue all-in-one online platform for virtual interviewing, recruiting and hiring. Video interviewing, pre-employement assessment screening and scheduling, A.I. powered software.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "Video interviewing",
+   "Pre-employment assessments",
+   "Scheduling"
+  ],
+  "bestFor": "Enterprise volume hiring",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "testgorilla",
+  "name": "TestGorilla",
+  "url": "https://www.testgorilla.com",
+  "categories": [
+   "assessments",
+   "sourcing"
+  ],
+  "description": "Streamline your hiring with TestGorilla. Find and assess ideal candidates from the world's largest skills-tested talent pool, powered by AI for unbiased, efficient recruitment.",
+  "pricing": "Free tier; Assessments from $215/mo, Plus from $520/mo; Sourcing seats $74\u2013$134/mo (annual)",
+  "features": [
+   "Skills test library",
+   "Skills-tested talent pool",
+   "AI scoring"
+  ],
+  "bestFor": "SMBs replacing CV screens with skills tests",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "codility",
+  "name": "Codility",
+  "url": "https://www.codility.com",
+  "categories": [
+   "assessments"
+  ],
+  "description": "The #1 online coding test & interview platform for enterprises. Assess technical talent with valid skill-based assessments and interviews.",
+  "pricing": "Starter $1,200 (annual); Scale $6,000",
+  "features": [
+   "Coding tests",
+   "Technical interviews",
+   "Skills-based evaluation"
+  ],
+  "bestFor": "Engineering hiring teams",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "hackerrank",
+  "name": "HackerRank",
+  "url": "https://www.hackerrank.com",
+  "categories": [
+   "assessments"
+  ],
+  "description": "HackerRank is the market-leading coding test and interview solution for hiring developers. Start hiring at the pace of innovation!",
+  "pricing": "Contact for pricing",
+  "features": [
+   "Coding tests",
+   "Live technical interviews",
+   "Plagiarism detection"
+  ],
+  "bestFor": "Developer hiring at scale",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "codesignal",
+  "name": "CodeSignal",
+  "url": "https://codesignal.com",
+  "categories": [
+   "assessments"
+  ],
+  "description": "Discover the agentic skills intelligence platform that helps teams see, measure, develop, and grow skills clearly with confidence.",
+  "pricing": "Build $79/mo annual ($99 monthly); Grow $479/mo annual ($599 monthly)",
+  "features": [
+   "Technical assessments",
+   "AI proctoring and ID verification",
+   "ATS integrations"
+  ],
+  "bestFor": "Tech teams of all sizes",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "vervoe",
+  "name": "Vervoe",
+  "url": "https://vervoe.com",
+  "categories": [
+   "assessments",
+   "screening"
+  ],
+  "description": "Vervoe\u2019s role-based skills assessments help enterprises see who can do the job, based on evidence, not resumes. Every result is explainable.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "Role-based skills assessments",
+   "Explainable results",
+   "AI grading"
+  ],
+  "bestFor": "Enterprises hiring on evidence over CVs",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "willo",
+  "name": "Willo",
+  "url": "https://www.willo.video",
+  "categories": [
+   "screening"
+  ],
+  "description": "Willo is intelligent candidate screening software that helps hiring teams screen candidates at scale and shortlist with confidence.",
+  "pricing": "Pay as you go \u00a349 per live role; annual plans from \u00a32,999/yr",
+  "features": [
+   "One-way video screening",
+   "Shortlisting at scale",
+   "ATS integrations"
+  ],
+  "bestFor": "Agencies and teams screening many applicants",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "spark-hire",
+  "name": "Spark Hire",
+  "url": "https://www.sparkhire.com",
+  "categories": [
+   "screening",
+   "crm-ats",
+   "assessments"
+  ],
+  "description": "Spark Hire is the hiring software that combines a powerful ATS with our industry-leading video interviews and behavioral assessments. Built for lean HR teams.",
+  "pricing": "ATS Pro from $335/mo, Pro+ $499/mo (annual); video screening from $249/mo",
+  "features": [
+   "ATS with video interviews",
+   "Behavioral assessments",
+   "Automation"
+  ],
+  "bestFor": "Lean HR teams",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "humanly",
+  "name": "Humanly",
+  "url": "https://www.humanly.io",
+  "categories": [
+   "screening",
+   "interview-scheduling"
+  ],
+  "description": "Automate screening, scheduling, and interviews with AI. Humanly helps high-volume hiring teams fill roles faster, reduce no-shows, and stay fully staffed.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "AI screening and interviews",
+   "Automated scheduling",
+   "No-show reduction"
+  ],
+  "bestFor": "High-volume hiring teams",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "brighthire",
+  "name": "BrightHire",
+  "url": "https://brighthire.com",
+  "categories": [
+   "screening",
+   "analytics"
+  ],
+  "description": "An Interview Intelligence platform that builds hiring plans, generates interview notes and highlights, delivers talent insights & more.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "Interview intelligence",
+   "AI interview notes and highlights",
+   "Hiring plans"
+  ],
+  "bestFor": "Teams improving interview quality",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "metaview",
+  "name": "Metaview",
+  "url": "https://www.metaview.ai",
+  "categories": [
+   "screening",
+   "sourcing"
+  ],
+  "description": "Source, review, screen, interview, and hire with AI agents that share context and handle the work between first search and final offer.",
+  "pricing": "Free; Pro $100/user/mo; Max $300/user/mo",
+  "features": [
+   "AI notetaker for interviews",
+   "AI sourcing agents",
+   "Application review"
+  ],
+  "bestFor": "AI-native recruiters",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "pin",
+  "name": "Pin",
+  "url": "https://www.pin.com",
+  "categories": [
+   "sourcing",
+   "outreach",
+   "interview-scheduling"
+  ],
+  "description": "AI recruiting platform with candidate sourcing from 850M+ profiles, automated outreach, and interview scheduling. Used by 10,000+ users. From $99/mo.",
+  "pricing": "Free plan; Solo $99/user/mo (annual); Professional $135/user/mo annual ($179 monthly)",
+  "features": [
+   "Sourcing from 850M+ profiles",
+   "Multi-channel outreach sequences",
+   "Interview scheduling"
+  ],
+  "bestFor": "Agency recruiters and small teams",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "sourcewhale",
+  "name": "SourceWhale",
+  "url": "https://sourcewhale.com",
+  "categories": [
+   "outreach",
+   "crm-ats"
+  ],
+  "description": "SourceWhale is an AI-powered suite of productivity modules for recruitment, staffing and exec search firms.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "Recruitment outreach automation",
+   "Syncs with agency ATS/CRMs",
+   "Productivity modules"
+  ],
+  "bestFor": "Staffing and executive search firms",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "lemlist",
+  "name": "lemlist",
+  "url": "https://www.lemlist.com",
+  "categories": [
+   "outreach"
+  ],
+  "description": "Know who to target and why now, find verified contacts, and engage across every channel from lemlist, your CRM, or your AI assistant.",
+  "pricing": "Email $69/mo ($55 annual); Multichannel $109/mo ($87 annual)",
+  "features": [
+   "Multichannel sequences (email, LinkedIn, calls)",
+   "Verified contact finding",
+   "Intent signals"
+  ],
+  "bestFor": "Recruiters running cold outreach to candidates or clients",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "25% for 12 months",
+   "url": "https://www.lemlist.com/affiliate-program",
+   "found": true
+  }
+ },
+ {
+  "slug": "dover",
+  "name": "Dover",
+  "url": "https://www.dover.com",
+  "categories": [
+   "crm-ats"
+  ],
+  "description": "600+ companies hire with Dover. Hire fractional recruiters at an average cost per hire of $4.8k, and run your hiring in our free ATS for startups.",
+  "pricing": "Free ATS for startups; fractional recruiters priced per hire (avg ~$4.8k per hire as shown)",
+  "features": [
+   "Free ATS",
+   "Fractional recruiters",
+   "Job board posting"
+  ],
+  "bestFor": "Early-stage startups",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "textio",
+  "name": "Textio",
+  "url": "https://textio.com",
+  "categories": [
+   "job-descriptions"
+  ],
+  "description": "Textio improves efficiency and quality across your talent lifecycle. Join recruiting and performance teams at T-Mobile, NASDAQ, Strava, and Upwork and get started building your dream team today!",
+  "pricing": "Contact for pricing",
+  "features": [
+   "Augmented job post writing",
+   "Bias detection in language",
+   "Performance feedback writing"
+  ],
+  "bestFor": "Enterprises improving job ad language",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "datapeople",
+  "name": "Datapeople",
+  "url": "https://datapeople.io",
+  "categories": [
+   "job-descriptions",
+   "analytics"
+  ],
+  "description": "Take control of your job content with AI for TA. Centralize your job descriptions. Standardize your voice. Publish job ads that perform.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "Centralised job description management",
+   "Standardised voice",
+   "Job ad performance insights"
+  ],
+  "bestFor": "TA teams managing many job descriptions",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "ongig",
+  "name": "Ongig",
+  "url": "https://www.ongig.com",
+  "categories": [
+   "job-descriptions"
+  ],
+  "description": "Create effective and inclusive job descriptions, plus automated workflows with Ongig",
+  "pricing": "Contact for pricing",
+  "features": [
+   "Job description software",
+   "Inclusive language checks",
+   "Approval workflows"
+  ],
+  "bestFor": "HR teams standardising JDs",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "eightfold",
+  "name": "Eightfold AI",
+  "url": "https://eightfold.ai",
+  "categories": [
+   "analytics",
+   "sourcing"
+  ],
+  "description": "AI-native talent intelligence platform for hiring, skills-based matching and internal mobility.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "Talent intelligence platform",
+   "Skills-based matching",
+   "Internal mobility"
+  ],
+  "bestFor": "Large enterprises",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "beamery",
+  "name": "Beamery",
+  "url": "https://beamery.com",
+  "categories": [
+   "analytics",
+   "crm-ats"
+  ],
+  "description": "Discover Beamery\u2019s AI-powered Workforce Transformation Platform. Align talent strategy, boost development, and unlock smarter workforce planning.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "Workforce transformation platform",
+   "Talent CRM",
+   "Workforce planning"
+  ],
+  "bestFor": "Enterprise talent strategy",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "lightcast",
+  "name": "Lightcast",
+  "url": "https://lightcast.io",
+  "categories": [
+   "analytics"
+  ],
+  "description": "Lightcast empowers smarter decisions for businesses, education institutions, and governments worldwide. With the world\u2019s most comprehensive database\u2014spanning over 2.5 billion job postings , 800 million career profiles , and 100+ government sources\u2014Lightcast delivers unparalleled insight across 160+ countries.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "Labor market data",
+   "Skills taxonomy",
+   "Compensation insights"
+  ],
+  "bestFor": "Workforce planning and market research",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "talentneuron",
+  "name": "TalentNeuron",
+  "url": "https://www.talentneuron.com",
+  "categories": [
+   "analytics"
+  ],
+  "description": "TalentNeuron helps HR leaders develop and execute workforce strategies that power your organization today and secure its future for tomorrow.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "Workforce intelligence",
+   "Talent market benchmarking",
+   "Strategic workforce planning"
+  ],
+  "bestFor": "HR leaders planning headcount",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "crosschq",
+  "name": "Crosschq",
+  "url": "https://www.crosschq.com",
+  "categories": [
+   "analytics",
+   "screening"
+  ],
+  "description": "Crosschq\u2019s Hiring Intelligence Platform delivers data-driven solutions to Talent Leaders so they can optimize recruiting and continuously improve Quality of Hire. ",
+  "pricing": "Contact for pricing",
+  "features": [
+   "Quality of hire analytics",
+   "Digital reference checks",
+   "Hiring intelligence"
+  ],
+  "bestFor": "Talent leaders measuring quality of hire",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "recruithorizon",
+  "name": "RecruitHorizon",
+  "url": "https://recruithorizon.ai",
+  "categories": [
+   "crm-ats",
+   "job-descriptions"
+  ],
+  "description": "Your next great hire in days, not months. AI-powered screening, assessments, and interviews with a receipt for every decision. 15-day free trial, 30-day money-back guarantee. No credit card required.",
+  "pricing": "Starter $249/mo; Growth $665/mo (billed annually); Scale tier listed",
+  "features": [
+   "Your next great hire in days, not months.",
+   "AI-powered screening, assessments, and interviews with a receipt for every decision.",
+   "15-day free trial, 30-day money-back guarantee."
+  ],
+  "bestFor": "Teams looking for AI applicant tracking / recruiting CRM",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "25% recurring for the life of the subscription, 90-day cookie",
+   "url": "https://recruithorizon.ai/affiliates",
+   "found": true
+  }
+ },
+ {
+  "slug": "jdxpert",
+  "name": "JDXpert",
+  "url": "https://www.jdxpert.com",
+  "categories": [
+   "job-descriptions"
+  ],
+  "description": "JDXpert governs job data for faster hiring, fair pay, and clear careers. Trusted by 450+ organizations including 80 Fortune 500 companies since 2010.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "JDXpert governs job data for faster hiring, fair pay, and clear careers.",
+   "Trusted by 450+ organizations including 80 Fortune 500 companies since 2010."
+  ],
+  "bestFor": "Teams looking for AI writing job descriptions",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "jasper",
+  "name": "Jasper",
+  "url": "https://www.jasper.ai",
+  "categories": [
+   "job-descriptions"
+  ],
+  "description": "Orchestrate intelligent agents to run end-to-end marketing workflows delivering speed, control, and measurable impact.",
+  "pricing": "Pro $59/month billed yearly",
+  "features": [
+   "Orchestrate intelligent agents to run end-to-end marketing workflows delivering speed, control, and measurable impact."
+  ],
+  "bestFor": "Teams looking for AI writing job descriptions",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "25% for 12 months (30% after 100 conversions)",
+   "url": "https://www.jasper.ai/affiliates",
+   "found": true
+  }
+ },
+ {
+  "slug": "icims",
+  "name": "iCIMS",
+  "url": "https://www.icims.com",
+  "categories": [
+   "crm-ats",
+   "job-descriptions"
+  ],
+  "description": "ICIMS is a leading talent acquisition platform offering AI-powered applicant tracking, candidate engagement, onboarding, employer branding, and career site software to help organizations hire top talent at scale.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "ICIMS is a leading talent acquisition platform offering AI-powered applicant tracking, candidate engagement, onboarding, employer branding, and career site software to help organizations hire top talent at scale."
+  ],
+  "bestFor": "Teams looking for AI applicant tracking / recruiting CRM",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "phenom",
+  "name": "Phenom",
+  "url": "https://www.phenom.com",
+  "categories": [
+   "crm-ats",
+   "job-descriptions"
+  ],
+  "description": "Phenom Applied AI is an AI platform that helps organizations hire faster, develop employees, and retain talent longer with automation and intelligence.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "Phenom Applied AI is an AI platform that helps organizations hire faster, develop employees, and retain talent longer with automation and intelligence."
+  ],
+  "bestFor": "Teams looking for AI applicant tracking / recruiting CRM",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "smartrecruiters",
+  "name": "SmartRecruiters",
+  "url": "https://www.smartrecruiters.com",
+  "categories": [
+   "crm-ats"
+  ],
+  "description": "Enterprise-grade AI hiring platform designed for HR and recruiting talent. SmartRecruiters all-in-one solution, so you can track applicants and hire easily.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "Enterprise-grade AI hiring platform designed for HR and recruiting talent.",
+   "SmartRecruiters all-in-one solution, so you can track applicants and hire easily."
+  ],
+  "bestFor": "Teams looking for AI applicant tracking / recruiting CRM",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "jobvite",
+  "name": "Jobvite",
+  "url": "https://www.jobvite.com",
+  "categories": [
+   "crm-ats"
+  ],
+  "description": "Empower your company\u2019s growth by creating exceptional candidate experiences, increasing capacity, and boosting hiring efficiency with recruitment software.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "Empower your company\u2019s growth by creating exceptional candidate experiences, increasing capacity, and boosting hiring efficiency with recruitment software."
+  ],
+  "bestFor": "Teams looking for AI applicant tracking / recruiting CRM",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "avature",
+  "name": "Avature",
+  "url": "https://www.avature.net",
+  "categories": [
+   "crm-ats"
+  ],
+  "description": "Drive strategic HR transformation with Avature. Harness AI to recruit, engage, develop and retain top talent with a flexible platform built for innovation.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "Drive strategic HR transformation with Avature.",
+   "Harness AI to recruit, engage, develop and retain top talent with a flexible platform built for innovation."
+  ],
+  "bestFor": "Teams looking for AI applicant tracking / recruiting CRM",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "teamtailor",
+  "name": "Teamtailor",
+  "url": "https://www.teamtailor.com",
+  "categories": [
+   "crm-ats"
+  ],
+  "description": "Everything you need for hiring people. Made smarter with AI and better with people.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "Everything you need for hiring people.",
+   "Made smarter with AI and better with people."
+  ],
+  "bestFor": "Teams looking for AI applicant tracking / recruiting CRM",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "pinpoint",
+  "name": "Pinpoint",
+  "url": "https://www.pinpointhq.com",
+  "categories": [
+   "crm-ats"
+  ],
+  "description": "Do more with less. Pinpoint is the ATS every team actually uses, so your data stays clean and automation and AI deliver. Built for multi-stream hiring.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "Do more with less.",
+   "Pinpoint is the ATS every team actually uses, so your data stays clean and automation and AI deliver.",
+   "Built for multi-stream hiring."
+  ],
+  "bestFor": "Teams looking for AI applicant tracking / recruiting CRM",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "homerun",
+  "name": "Homerun",
+  "url": "https://www.homerun.co",
+  "categories": [
+   "crm-ats"
+  ],
+  "description": "Applicant tracking and HR management made easy for growing teams. Beautiful job posts, leave tracking, employee data, and team insights\u2014all in one place.",
+  "pricing": "From \u20ac109/month on annual contract (3 job slots); 5-slot plan \u20ac215/month",
+  "features": [
+   "Applicant tracking and HR management made easy for growing teams.",
+   "Beautiful job posts, leave tracking, employee data, and team insights\u2014all in one place."
+  ],
+  "bestFor": "Teams looking for AI applicant tracking / recruiting CRM",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "20% of the referred client\u2019s first 12 months",
+   "url": "https://www.homerun.co/partner-program",
+   "found": true
+  }
+ },
+ {
+  "slug": "recooty",
+  "name": "Recooty",
+  "url": "https://recooty.com",
+  "categories": [
+   "crm-ats",
+   "job-descriptions"
+  ],
+  "description": "Best AI recruiting & recruitment management software for small businesses & HR teams. Recooty\u2019s AI recruiting platform simplifies & automate hiring with smart, intuitive automation.",
+  "pricing": "Starter $79/mo; Standard $149/mo (billed annually)",
+  "features": [
+   "Best AI recruiting & recruitment management software for small businesses & HR teams.",
+   "Recooty\u2019s AI recruiting platform simplifies & automate hiring with smart, intuitive automation."
+  ],
+  "bestFor": "Teams looking for AI applicant tracking / recruiting CRM",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "20% per paid referral",
+   "url": "https://recooty.com/affiliate",
+   "found": true
+  }
+ },
+ {
+  "slug": "zohorecruit",
+  "name": "Zoho Recruit",
+  "url": "https://www.zoho.com/recruit/",
+  "categories": [
+   "crm-ats",
+   "job-descriptions"
+  ],
+  "description": "Reduce time to hire with Zoho Recruit, an AI-powered ATS & recruitment CRM for Corporate HRs and Staffing Agencies. Source, track, and hire the right talent. Get started for free!",
+  "pricing": "Contact for pricing",
+  "features": [
+   "Reduce time to hire with Zoho Recruit, an AI-powered ATS & recruitment CRM for Corporate HRs and Staffing Agencies.",
+   "Source, track, and hire the right talent.",
+   "Get started for free!"
+  ],
+  "bestFor": "Teams looking for AI applicant tracking / recruiting CRM",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "15% on qualified sales for the first 12 months, 90-day cookie (Zoho-wide program)",
+   "url": "https://www.zoho.com/affiliate",
+   "found": true
+  }
+ },
+ {
+  "slug": "bamboohr",
+  "name": "BambooHR",
+  "url": "https://www.bamboohr.com",
+  "categories": [
+   "crm-ats"
+  ],
+  "description": "BambooHR makes it easy to simplify HR, with award-winning solutions for everything from hire to retire. Learn more with a free demo today.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "BambooHR makes it easy to simplify HR, with award-winning solutions for everything from hire to retire.",
+   "Learn more with a free demo today."
+  ],
+  "bestFor": "Teams looking for AI applicant tracking / recruiting CRM",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "jobadder",
+  "name": "JobAdder",
+  "url": "https://jobadder.com",
+  "categories": [
+   "crm-ats",
+   "job-descriptions"
+  ],
+  "description": "Built by recruiters for recruiters, the JobAdder ATS and CRM recruitment software adds joy to the job of recruitment.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "Built by recruiters for recruiters, the JobAdder ATS and CRM recruitment software adds joy to the job of recruitment."
+  ],
+  "bestFor": "Teams looking for AI applicant tracking / recruiting CRM",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "vincere",
+  "name": "Vincere",
+  "url": "https://www.vincere.io",
+  "categories": [
+   "crm-ats"
+  ],
+  "description": "All-in-one software for staffing agencies, supercharged with AI. Trusted by 22,000+ recruiters. Grow your business with AI-powered recruitment agency software.",
+  "pricing": "From \u00a385/user/month; single-user flat fee \u00a3150/month",
+  "features": [
+   "All-in-one software for staffing agencies, supercharged with AI.",
+   "Trusted by 22,000+ recruiters.",
+   "Grow your business with AI-powered recruitment agency software."
+  ],
+  "bestFor": "Teams looking for AI applicant tracking / recruiting CRM",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "crelate",
+  "name": "Crelate",
+  "url": "https://www.crelate.com",
+  "categories": [
+   "crm-ats"
+  ],
+  "description": "Let Crelate's end-to-end powerful recruitment CRM, applicant tracking system, and staffing software enhance your hiring process with ease.",
+  "pricing": "Essentials $85/user/mo (annual); higher tier $119/user/mo",
+  "features": [
+   "Let Crelate's end-to-end powerful recruitment CRM, applicant tracking system, and staffing software enhance your hiring process with ease."
+  ],
+  "bestFor": "Teams looking for AI applicant tracking / recruiting CRM",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "trackerrms",
+  "name": "Tracker",
+  "url": "https://tracker-rms.com",
+  "categories": [
+   "crm-ats",
+   "job-descriptions"
+  ],
+  "description": "Tracker is the all-in-one ATS & CRM for staffing and recruitment agencies. AI sourcing, sales automation, and back office. Book a demo today.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "Tracker is the all-in-one ATS & CRM for staffing and recruitment agencies.",
+   "AI sourcing, sales automation, and back office.",
+   "Book a demo today."
+  ],
+  "bestFor": "Teams looking for AI applicant tracking / recruiting CRM",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "firefish",
+  "name": "Firefish",
+  "url": "https://www.firefishsoftware.com",
+  "categories": [
+   "crm-ats"
+  ],
+  "description": "Firefish Recruitment CRM unites sales, marketing, and recruitment data to help agencies make more placements and increase revenue per recruiter. Book a demo today.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "Firefish Recruitment CRM unites sales, marketing, and recruitment data to help agencies make more placements and increase revenue per recruiter.",
+   "Book a demo today."
+  ],
+  "bestFor": "Teams looking for AI applicant tracking / recruiting CRM",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "avionte",
+  "name": "Aviont\u00e9",
+  "url": "https://www.avionte.com",
+  "categories": [
+   "crm-ats"
+  ],
+  "description": "Discover the staffing software platform built for agencies that want to grow. ATS, CRM, payroll, and analytics in one seamless solution.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "Discover the staffing software platform built for agencies that want to grow.",
+   "ATS, CRM, payroll, and analytics in one seamless solution."
+  ],
+  "bestFor": "Teams looking for AI applicant tracking / recruiting CRM",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "ceipal",
+  "name": "Ceipal",
+  "url": "https://www.ceipal.com",
+  "categories": [
+   "crm-ats"
+  ],
+  "description": "Ceipal combines ATS, VMS, and workforce management in one platform. Trusted by 200K+ recruiters. See why staffing firms choose Ceipal.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "Ceipal combines ATS, VMS, and workforce management in one platform.",
+   "Trusted by 200K+ recruiters.",
+   "See why staffing firms choose Ceipal."
+  ],
+  "bestFor": "Teams looking for AI applicant tracking / recruiting CRM",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "catsone",
+  "name": "CATS",
+  "url": "https://www.catsone.com",
+  "categories": [
+   "crm-ats"
+  ],
+  "description": "CATS is the next generation of applicant tracking software. Automated recruiting in a fully customizable and easy-to-use interface. Start your free trial today!",
+  "pricing": "From $89/user/month",
+  "features": [
+   "CATS is the next generation of applicant tracking software.",
+   "Automated recruiting in a fully customizable and easy-to-use interface.",
+   "Start your free trial today!"
+  ],
+  "bestFor": "Teams looking for AI applicant tracking / recruiting CRM",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "recruiterflow",
+  "name": "Recruiterflow",
+  "url": "https://recruiterflow.com",
+  "categories": [
+   "crm-ats",
+   "job-descriptions"
+  ],
+  "description": "Recruiterflow is the best AI-Native ATS & CRM software for executive search firms, recruiting agencies and staffing agencies. It comes equipped with ATS, CRM, sequencing, data enrichment, recruitment automation and AI agents",
+  "pricing": "From $149/user/month",
+  "features": [
+   "Recruiterflow is the best AI-Native ATS & CRM software for executive search firms, recruiting agencies and staffing agencies.",
+   "It comes equipped with ATS, CRM, sequencing, data enrichment, recruitment automation and AI agents"
+  ],
+  "bestFor": "Teams looking for AI applicant tracking / recruiting CRM",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "zappyhire",
+  "name": "Zappyhire",
+  "url": "https://www.zappyhire.com",
+  "categories": [
+   "screening"
+  ],
+  "description": "Recruitment Automation Software for Large Companies",
+  "pricing": "Contact for pricing",
+  "features": [
+   "Recruitment Automation Software for Large Companies"
+  ],
+  "bestFor": "Teams looking for AI candidate screening",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "hirebee",
+  "name": "Hirebee",
+  "url": "https://hirebee.ai",
+  "categories": [
+   "crm-ats"
+  ],
+  "description": "The all-in-one HR platform that helps companies recruit, assess, and manage talent 60% faster with AI-powered automation.",
+  "pricing": "Starter $49/mo; Professional $79/mo; Business $119/mo (per recruiter)",
+  "features": [
+   "The all-in-one HR platform that helps companies recruit, assess, and manage talent 60% faster with AI-powered automation."
+  ],
+  "bestFor": "Teams looking for AI applicant tracking / recruiting CRM",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "workstream",
+  "name": "Workstream",
+  "url": "https://www.workstream.us",
+  "categories": [
+   "screening"
+  ],
+  "description": "Simplify operations and elevate worker experience. Access data, track milestones, automate hiring, and ensure compliance. See why top companies trust us.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "Simplify operations and elevate worker experience.",
+   "Access data, track milestones, automate hiring, and ensure compliance.",
+   "See why top companies trust us."
+  ],
+  "bestFor": "Teams looking for AI candidate screening",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "fountain",
+  "name": "Fountain",
+  "url": "https://www.fountain.com",
+  "categories": [
+   "screening"
+  ],
+  "description": "AI agent platform for frontline hiring and operations.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "AI agent platform for frontline hiring and operations."
+  ],
+  "bestFor": "Teams looking for AI candidate screening",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "harver",
+  "name": "Harver",
+  "url": "https://harver.com",
+  "categories": [
+   "assessments"
+  ],
+  "description": "Harver helps enterprise teams hire better, faster with predictive assessments, automation, AI readiness tools, and data-driven talent insights.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "Harver helps enterprise teams hire better, faster with predictive assessments, automation, AI readiness tools, and data-driven talent insights."
+  ],
+  "bestFor": "Teams looking for AI skills assessments",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "sapia",
+  "name": "Sapia.ai",
+  "url": "https://sapia.ai",
+  "categories": [
+   "screening"
+  ],
+  "description": "Sapia.ai is a science-based AI chat interview platform designed for faster, more efficient, and fairer hiring.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "Sapia.ai is a science-based AI chat interview platform designed for faster, more efficient, and fairer hiring."
+  ],
+  "bestFor": "Teams looking for AI candidate screening",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "talview",
+  "name": "Talview",
+  "url": "https://www.talview.com",
+  "categories": [
+   "assessments"
+  ],
+  "description": "Secure every assessment and interview with AI Proctoring and AI Interviewing. Detect deepfakes, impersonation, AI assistance and more.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "Secure every assessment and interview with AI Proctoring and AI Interviewing.",
+   "Detect deepfakes, impersonation, AI assistance and more."
+  ],
+  "bestFor": "Teams looking for AI skills assessments",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "15\u201320% of year-1 revenue or $250\u2013$500 per qualified deal",
+   "url": "https://www.talview.com/affiliate-program",
+   "found": true
+  }
+ },
+ {
+  "slug": "glider",
+  "name": "Glider AI",
+  "url": "https://glider.ai",
+  "categories": [
+   "assessments"
+  ],
+  "description": "AI agents for recruiting and learning. Glider AI screens candidates, verifies identity, assesses skills and develops talent with AI role play.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "AI agents for recruiting and learning.",
+   "Glider AI screens candidates, verifies identity, assesses skills and develops talent with AI role play."
+  ],
+  "bestFor": "Teams looking for AI skills assessments",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "hirequotient",
+  "name": "HireQuotient",
+  "url": "https://www.hirequotient.com",
+  "categories": [
+   "assessments"
+  ],
+  "description": "AI recruiting software for healthcare, insurance, construction, building services and manufacturing. Licences verified at source against NPI and NIPR.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "AI recruiting software for healthcare, insurance, construction, building services and manufacturing.",
+   "Licences verified at source against NPI and NIPR."
+  ],
+  "bestFor": "Teams looking for AI skills assessments",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "imocha",
+  "name": "iMocha",
+  "url": "https://www.imocha.io",
+  "categories": [
+   "assessments"
+  ],
+  "description": "iMocha\u2019s Skills & Work Intelligence Platform helps enterprises identify skill gaps, upskill teams, improve internal mobility, & make skills-based decisions.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "iMocha\u2019s Skills & Work Intelligence Platform helps enterprises identify skill gaps, upskill teams, improve internal mobility, & make skills-based decisions."
+  ],
+  "bestFor": "Teams looking for AI skills assessments",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "hackerearth",
+  "name": "HackerEarth",
+  "url": "https://www.hackerearth.com",
+  "categories": [
+   "assessments"
+  ],
+  "description": "Evaluate humans and AI. Assess real-world skills, run AI interviews, engage 10M+ developers, and benchmark AI models, with built-in proctoring.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "Evaluate humans and AI.",
+   "Assess real-world skills, run AI interviews, engage 10M+ developers, and benchmark AI models, with built-in proctoring."
+  ],
+  "bestFor": "Teams looking for AI skills assessments",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "coderbyte",
+  "name": "Coderbyte",
+  "url": "https://coderbyte.com",
+  "categories": [
+   "assessments"
+  ],
+  "description": "Evaluate any skill quickly, accurately, and affordably with unlimited candidates, admins, and AI.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "Evaluate any skill quickly, accurately, and affordably with unlimited candidates, admins, and AI."
+  ],
+  "bestFor": "Teams looking for AI skills assessments",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "coderpad",
+  "name": "CoderPad",
+  "url": "https://coderpad.io",
+  "categories": [
+   "assessments"
+  ],
+  "description": "Hire better devs with CoderPad's live coding interview & technical assessment platform. Filter candidates based on their coding skills, in 99+ languages.",
+  "pricing": "Plans from $80/month up to $1,000/month",
+  "features": [
+   "Hire better devs with CoderPad's live coding interview & technical assessment platform.",
+   "Filter candidates based on their coding skills, in 99+ languages."
+  ],
+  "bestFor": "Teams looking for AI skills assessments",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "karat",
+  "name": "Karat",
+  "url": "https://karat.com",
+  "categories": [
+   "assessments"
+  ],
+  "description": "The trusted standard for technical interview and screening services. Expert evaluation, global benchmarks, and workforce intelligence for the human+AI era.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "The trusted standard for technical interview and screening services.",
+   "Expert evaluation, global benchmarks, and workforce intelligence for the human+AI era."
+  ],
+  "bestFor": "Teams looking for AI skills assessments",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "adaface",
+  "name": "Adaface",
+  "url": "https://www.adaface.com",
+  "categories": [
+   "assessments"
+  ],
+  "description": "Use Adaface coding, aptitude and psychometric tests to identify the most qualified candidates for 500+ roles.",
+  "pricing": "Individual $180/yr; Starter $500/yr; Pro $900/yr",
+  "features": [
+   "Use Adaface coding, aptitude and psychometric tests to identify the most qualified candidates for 500+ roles."
+  ],
+  "bestFor": "Teams looking for AI skills assessments",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "criteria",
+  "name": "Criteria",
+  "url": "https://www.criteriacorp.com",
+  "categories": [
+   "assessments"
+  ],
+  "description": "We help organizations make evidence-based talent decisions to drive outcomes through pre-employment assessments, video interviewing, & talent management tools.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "We help organizations make evidence-based talent decisions to drive outcomes through pre-employment assessments, video interviewing, & talent management tools."
+  ],
+  "bestFor": "Teams looking for AI skills assessments",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "eskill",
+  "name": "eSkill",
+  "url": "https://www.eskill.com",
+  "categories": [
+   "assessments"
+  ],
+  "description": "eSkill is the market leader in pre-employment testing and talent skill assessments. Screen candidates, assess skills, and improve hiring with our expert talent assessment platform.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "eSkill is the market leader in pre-employment testing and talent skill assessments.",
+   "Screen candidates, assess skills, and improve hiring with our expert talent assessment platform."
+  ],
+  "bestFor": "Teams looking for AI skills assessments",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "testdome",
+  "name": "TestDome",
+  "url": "https://www.testdome.com",
+  "categories": [
+   "assessments"
+  ],
+  "description": "Use our programming and interview assessment tests for interviewing out of the box. You can also edit them, or combine our premium questions and skills to create your own tests.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "Use our programming and interview assessment tests for interviewing out of the box.",
+   "You can also edit them, or combine our premium questions and skills to create your own tests."
+  ],
+  "bestFor": "Teams looking for AI skills assessments",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "canditech",
+  "name": "Canditech",
+  "url": "https://canditech.io",
+  "categories": [
+   "assessments"
+  ],
+  "description": "Canditech is a skill assessment platform for HR and hiring managers. Streamline pre-employment assessments with online job simulations for technical and soft skills.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "Canditech is a skill assessment platform for HR and hiring managers.",
+   "Streamline pre-employment assessments with online job simulations for technical and soft skills."
+  ],
+  "bestFor": "Teams looking for AI skills assessments",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "bryq",
+  "name": "Bryq",
+  "url": "https://www.bryq.com",
+  "categories": [
+   "assessments"
+  ],
+  "description": "Measure cognitive ability, personality traits, and hard skills including AI fluency in one profile. 3x quality of hire.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "Measure cognitive ability, personality traits, and hard skills including AI fluency in one profile.",
+   "3x quality of hire."
+  ],
+  "bestFor": "Teams looking for AI skills assessments",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "xobin",
+  "name": "Xobin",
+  "url": "https://xobin.com",
+  "categories": [
+   "assessments"
+  ],
+  "description": "Xobin is a unified skill assessment and talent management platform that combines proctored job and skills tests, behavioral assessments, AI interviews, and hiring workflows for data-driven hiring and talent development.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "Xobin is a unified skill assessment and talent management platform that combines proctored job and skills tests, behavioral assessments, AI interviews, and hiring workflows for data-driven hiring and talent development."
+  ],
+  "bestFor": "Teams looking for AI skills assessments",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "vidcruiter",
+  "name": "VidCruiter",
+  "url": "https://vidcruiter.com",
+  "categories": [
+   "screening"
+  ],
+  "description": "AI recruiting software for high-volume hiring, including video interviewing and scheduling.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "AI recruiting software for high-volume hiring, including video interviewing and scheduling."
+  ],
+  "bestFor": "Teams looking for AI candidate screening",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "hireflix",
+  "name": "Hireflix",
+  "url": "https://www.hireflix.com",
+  "categories": [
+   "screening"
+  ],
+  "description": "One-way video interview software that recruiters call the most user-friendly platform on the market. Get started today for free",
+  "pricing": "$75/mo or $150/mo (billed yearly)",
+  "features": [
+   "One-way video interview software that recruiters call the most user-friendly platform on the market.",
+   "Get started today for free"
+  ],
+  "bestFor": "Teams looking for AI candidate screening",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "jobma",
+  "name": "Jobma",
+  "url": "https://www.jobma.com",
+  "categories": [
+   "screening"
+  ],
+  "description": "AI video interviewing, skill assessments, and agentic AI \u2014 all in one platform. Jobma helps teams screen, validate, and hire faster.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "AI video interviewing, skill assessments, and agentic AI \u2014 all in one platform.",
+   "Jobma helps teams screen, validate, and hire faster."
+  ],
+  "bestFor": "Teams looking for AI candidate screening",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "interviewerai",
+  "name": "Interviewer.AI",
+  "url": "https://interviewer.ai",
+  "categories": [
+   "screening"
+  ],
+  "description": "Interviewer.AI is the leading AI-powered video interview software that helps businesses to recruit, screen, and hire top talent. Try our smart video interview software today! No Credit Card Required! Cancel Anytime!",
+  "pricing": "Essential $199/mo; Professional $399/mo",
+  "features": [
+   "Interviewer.AI is the leading AI-powered video interview software that helps businesses to recruit, screen, and hire top talent.",
+   "Try our smart video interview software today!",
+   "No Credit Card Required!"
+  ],
+  "bestFor": "Teams looking for AI candidate screening",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "ribbon",
+  "name": "Ribbon",
+  "url": "https://www.ribbon.ai",
+  "categories": [
+   "screening"
+  ],
+  "description": "Ribbon AI interviews every candidate by voice, email, and SMS \u2014 1M+ interviews run and 60% faster time-to-hire. Only meet qualified candidates.",
+  "pricing": "Growth $499/mo; Business $999/mo; Scale $1,999/mo (billed annually)",
+  "features": [
+   "Ribbon AI interviews every candidate by voice, email, and SMS \u2014 1M+ interviews run and 60% faster time-to-hire.",
+   "Only meet qualified candidates."
+  ],
+  "bestFor": "Teams looking for AI candidate screening",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "apriora",
+  "name": "Apriora",
+  "url": "https://www.apriora.ai",
+  "categories": [
+   "screening"
+  ],
+  "description": "Alex is the AI recruiter that interviews, screens, and schedules every candidate, so your team hires great people faster, without adding TA headcount.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "Alex is the AI recruiter that interviews, screens, and schedules every candidate, so your team hires great people faster, without adding TA headcount."
+  ],
+  "bestFor": "Teams looking for AI candidate screening",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "cvviz",
+  "name": "CVViZ",
+  "url": "https://cvviz.com",
+  "categories": [
+   "screening"
+  ],
+  "description": "CVViZ is an AI recruiting software and applicant tracking system that helps staffing agencies and hiring teams source candidates, screen resumes with AI, automate recruiting workflows, and hire faster.",
+  "pricing": "$99, $199 or $349 per month",
+  "features": [
+   "CVViZ is an AI recruiting software and applicant tracking system that helps staffing agencies and hiring teams source candidates, screen resumes with AI, automate recruiting workflows, and hire faster."
+  ],
+  "bestFor": "Teams looking for AI candidate screening",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "Minimum 20% commission",
+   "url": "https://cvviz.com/affiliate-program",
+   "found": true
+  }
+ },
+ {
+  "slug": "textkernel",
+  "name": "Textkernel",
+  "url": "https://www.textkernel.com",
+  "categories": [
+   "screening"
+  ],
+  "description": "Transform your recruitment with AI-powered solutions from Textkernel. Revolutionize your talent management and HR strategy with our technology.",
+  "pricing": "Professional from $99/month (credit-based); Enterprise: contact",
+  "features": [
+   "Transform your recruitment with AI-powered solutions from Textkernel.",
+   "Revolutionize your talent management and HR strategy with our technology."
+  ],
+  "bestFor": "Teams looking for AI candidate screening",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "rchilli",
+  "name": "RChilli",
+  "url": "https://www.rchilli.com",
+  "categories": [
+   "screening"
+  ],
+  "description": "Transform your recruiting process with RChilli AI Agents for faster, bias-free hiring and seamless integration into your ERP systems. Elevate talent acquisition today.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "Transform your recruiting process with RChilli AI Agents for faster, bias-free hiring and seamless integration into your ERP systems.",
+   "Elevate talent acquisition today."
+  ],
+  "bestFor": "Teams looking for AI candidate screening",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "daxtra",
+  "name": "DaXtra",
+  "url": "https://www.daxtra.com",
+  "categories": [
+   "screening"
+  ],
+  "description": "Discover how Daxtra helps staffing and recruiting agencies grow. Automate manual work, reduce cost-per-hire, and make more placements without adding headcount.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "Discover how Daxtra helps staffing and recruiting agencies grow.",
+   "Automate manual work, reduce cost-per-hire, and make more placements without adding headcount."
+  ],
+  "bestFor": "Teams looking for AI candidate screening",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "screenloop",
+  "name": "Screenloop",
+  "url": "https://www.screenloop.com",
+  "categories": [
+   "screening"
+  ],
+  "description": "Screenloop is the best AI-native applicant tracking software for in-house Talent Acquisition teams at start-ups, SMEs, and growing companies. Replace 8+ tools, simplify hiring, improve candidate experience, and save time. Book a demo today.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "Screenloop is the best AI-native applicant tracking software for in-house Talent Acquisition teams at start-ups, SMEs, and growing companies.",
+   "Replace 8+ tools, simplify hiring, improve candidate experience, and save time.",
+   "Book a demo today."
+  ],
+  "bestFor": "Teams looking for AI candidate screening",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "pillar",
+  "name": "Pillar",
+  "url": "https://www.pillar.hr",
+  "categories": [
+   "screening"
+  ],
+  "description": "Employ's AI Interview Companion (formerly Pillar): interview recording, coaching and notes.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "Employ's AI Interview Companion (formerly Pillar): interview recording, coaching and notes."
+  ],
+  "bestFor": "Teams looking for AI candidate screening",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "honeit",
+  "name": "Honeit",
+  "url": "https://www.honeit.com",
+  "categories": [
+   "screening"
+  ],
+  "description": "Honeit is interview intelligence software for recruiting, staffing, TA, and RPO teams. Record, score, and share interviews as candidate presentations.",
+  "pricing": "$110 per recruiter seat (14-day free trial)",
+  "features": [
+   "Honeit is interview intelligence software for recruiting, staffing, TA, and RPO teams.",
+   "Record, score, and share interviews as candidate presentations."
+  ],
+  "bestFor": "Teams looking for AI candidate screening",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "xref",
+  "name": "Xref",
+  "url": "https://www.xref.com",
+  "categories": [
+   "screening"
+  ],
+  "description": "Xref is the easiest way to make data driven HR decisions - hire with confidence, build culture with clarity, and turn attrition into retention.",
+  "pricing": "From $70/month (annual); $140 and $290 tiers",
+  "features": [
+   "Xref is the easiest way to make data driven HR decisions - hire with confidence, build culture with clarity, and turn attrition into retention."
+  ],
+  "bestFor": "Teams looking for AI candidate screening",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "skillsurvey",
+  "name": "SkillSurvey",
+  "url": "https://www.skillsurvey.com",
+  "categories": [
+   "screening"
+  ],
+  "description": "iCIMS SkillSurvey helps you verify skills and reference check candidates with automation and simplicity to hire quality talent at scale.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "iCIMS SkillSurvey helps you verify skills and reference check candidates with automation and simplicity to hire quality talent at scale."
+  ],
+  "bestFor": "Teams looking for AI candidate screening",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "cronofy",
+  "name": "Cronofy",
+  "url": "https://www.cronofy.com",
+  "categories": [
+   "interview-scheduling"
+  ],
+  "description": "Add native calendar sync, scheduling and meeting transcription to your product on one integration. The infrastructure behind 450+ SaaS products.",
+  "pricing": "$819/month or $2,399/month (billed annually)",
+  "features": [
+   "Add native calendar sync, scheduling and meeting transcription to your product on one integration.",
+   "The infrastructure behind 450+ SaaS products."
+  ],
+  "bestFor": "Teams looking for AI interview scheduling",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "sense",
+  "name": "Sense",
+  "url": "https://www.sensehq.com",
+  "categories": [
+   "outreach"
+  ],
+  "description": "The Sense Talent Engagement Platform accelerates hiring, automates outreach, and delivers personalized candidate experiences.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "The Sense Talent Engagement Platform accelerates hiring, automates outreach, and delivers personalized candidate experiences."
+  ],
+  "bestFor": "Teams looking for AI candidate outreach and attraction",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "kula",
+  "name": "Kula",
+  "url": "https://www.kula.ai",
+  "categories": [
+   "outreach"
+  ],
+  "description": "Kula is the only true all-in-one ATS built by recruiters \u2013 helping teams hire up to 5x faster without the add-ons, bloat, or usage fees of traditional systems. Everything from sourcing to scheduling and analytics is made under one roof, powered by Native AI trained on real recruiter workflows.",
+  "pricing": "From $5,120/year (priced by company size)",
+  "features": [
+   "Kula is the only true all-in-one ATS built by recruiters \u2013 helping teams hire up to 5x faster without the add-ons, bloat, or usage fees of traditional systems.",
+   "Everything from sourcing to scheduling and analytics is made under one roof, powered by Native AI trained on real recruiter workflows."
+  ],
+  "bestFor": "Teams looking for AI candidate outreach and attraction",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "xor",
+  "name": "XOR",
+  "url": "https://www.xor.ai",
+  "categories": [
+   "interview-scheduling"
+  ],
+  "description": "Engage talent instantly, automate tasks, and recruit virtually. We use text messaging, artificial intelligence, and virtual career fairs for faster hiring.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "Engage talent instantly, automate tasks, and recruit virtually.",
+   "We use text messaging, artificial intelligence, and virtual career fairs for faster hiring."
+  ],
+  "bestFor": "Teams looking for AI interview scheduling",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "talkpush",
+  "name": "Talkpush",
+  "url": "https://www.talkpush.com",
+  "categories": [
+   "screening"
+  ],
+  "description": "Talkpush is the AI-powered applicant tracking system (ATS) and recruitment CRM built for high-volume hiring. Attract, screen, interview and engage thousands of candidates at once.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "Talkpush is the AI-powered applicant tracking system (ATS) and recruitment CRM built for high-volume hiring.",
+   "Attract, screen, interview and engage thousands of candidates at once."
+  ],
+  "bestFor": "Teams looking for AI candidate screening",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "reply",
+  "name": "Reply.io",
+  "url": "https://reply.io",
+  "categories": [
+   "outreach"
+  ],
+  "description": "Automate sales outreach, find qualified leads, and book more meetings with Reply.io\u2019s AI-powered platform. Multichannel campaigns, B2B database, analytics, and CRM integrations streamline your sales process. Try for free!",
+  "pricing": "From $89/user/month billed annually",
+  "features": [
+   "Automate sales outreach, find qualified leads, and book more meetings with Reply.io\u2019s AI-powered platform.",
+   "Multichannel campaigns, B2B database, analytics, and CRM integrations streamline your sales process.",
+   "Try for free!"
+  ],
+  "bestFor": "Teams looking for AI candidate outreach and attraction",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "instantly",
+  "name": "Instantly",
+  "url": "https://instantly.ai",
+  "categories": [
+   "outreach"
+  ],
+  "description": "Turn leads into clients with automated outreach, a B2B lead database, email deliverability tools, and an AI-powered CRM. Start free today.",
+  "pricing": "Growth $47/mo",
+  "features": [
+   "Turn leads into clients with automated outreach, a B2B lead database, email deliverability tools, and an AI-powered CRM.",
+   "Start free today."
+  ],
+  "bestFor": "Teams looking for AI candidate outreach and attraction",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "20\u201335% recurring",
+   "url": "https://instantly.ai/affiliate",
+   "found": true
+  }
+ },
+ {
+  "slug": "woodpecker",
+  "name": "Woodpecker",
+  "url": "https://woodpecker.co",
+  "categories": [
+   "outreach"
+  ],
+  "description": "For businesses that do outbound. All you need for cold email and LinkedIn outreach in one place.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "For businesses that do outbound.",
+   "All you need for cold email and LinkedIn outreach in one place."
+  ],
+  "bestFor": "Teams looking for AI candidate outreach and attraction",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "20% lifetime recurring",
+   "url": "https://woodpecker.co/affiliate-program",
+   "found": true
+  }
+ },
+ {
+  "slug": "duxsoup",
+  "name": "Dux-Soup",
+  "url": "https://www.dux-soup.com",
+  "categories": [
+   "outreach"
+  ],
+  "description": "AI-powered LinkedIn outreach that sounds human. Trusted by 300,000+ customers. Launch campaigns, personalize messages & generate leads safely. Free trial.",
+  "pricing": "$55/month or $99/month per seat (less on annual)",
+  "features": [
+   "AI-powered LinkedIn outreach that sounds human.",
+   "Trusted by 300,000+ customers.",
+   "Launch campaigns, personalize messages & generate leads safely."
+  ],
+  "bestFor": "Teams looking for AI candidate outreach and attraction",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "Up to 35% of first payment + 25% recurring for life",
+   "url": "https://www.dux-soup.com/affiliates",
+   "found": true
+  }
+ },
+ {
+  "slug": "expandi",
+  "name": "Expandi",
+  "url": "https://expandi.io",
+  "categories": [
+   "outreach"
+  ],
+  "description": "Automate LinkedIn + email outreach safely. Build multichannel campaigns in minutes & book 3x more meetings. Try Expandi FREE for 7 days.",
+  "pricing": "$99/month (7-day free trial)",
+  "features": [
+   "Automate LinkedIn + email outreach safely.",
+   "Build multichannel campaigns in minutes & book 3x more meetings.",
+   "Try Expandi FREE for 7 days."
+  ],
+  "bestFor": "Teams looking for AI candidate outreach and attraction",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "20% for 12 months",
+   "url": "https://expandi.io/affiliate-program",
+   "found": true
+  }
+ },
+ {
+  "slug": "waalaxy",
+  "name": "Waalaxy",
+  "url": "https://www.waalaxy.com",
+  "categories": [
+   "outreach"
+  ],
+  "description": "Automate your LinkedIn and email outreach with Waalaxy. Launch campaigns in minutes and get more replies. No technical skills required. Start free today.",
+  "pricing": "\u20ac19, \u20ac49 or \u20ac69 per user/month (14-day free trial)",
+  "features": [
+   "Automate your LinkedIn and email outreach with Waalaxy.",
+   "Launch campaigns in minutes and get more replies.",
+   "No technical skills required."
+  ],
+  "bestFor": "Teams looking for AI candidate outreach and attraction",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "Up to 50% of referrals\u2019 payments",
+   "url": "https://www.waalaxy.com/affiliate-program",
+   "found": true
+  }
+ },
+ {
+  "slug": "crystal",
+  "name": "Crystal",
+  "url": "https://www.crystalknows.com",
+  "categories": [
+   "outreach"
+  ],
+  "description": "Crystal is the AI coach that understands you. Understand who you are, decide who you want to become, and build the daily habits to get there. Free to start.",
+  "pricing": "Premium $49/mo",
+  "features": [
+   "Crystal is the AI coach that understands you.",
+   "Understand who you are, decide who you want to become, and build the daily habits to get there.",
+   "Free to start."
+  ],
+  "bestFor": "Teams looking for AI candidate outreach and attraction",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "visier",
+  "name": "Visier",
+  "url": "https://www.visier.com",
+  "categories": [
+   "analytics"
+  ],
+  "description": "Understand, plan, and act with confidence with Visier Workforce AI, built on an enterprise context engine that knows your entire workforce.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "Understand, plan, and act with confidence with Visier Workforce AI, built on an enterprise context engine that knows your entire workforce."
+  ],
+  "bestFor": "Teams looking for AI recruiting and workforce analytics",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "revelio",
+  "name": "Revelio Labs",
+  "url": "https://www.reveliolabs.com",
+  "categories": [
+   "analytics"
+  ],
+  "description": "Explore workforce data to analyze companies, markets, and talent. Track hiring, attrition, skills, workforce composition, and talent flows.",
+  "pricing": "Revelio Terminal from $1,250/month",
+  "features": [
+   "Explore workforce data to analyze companies, markets, and talent.",
+   "Track hiring, attrition, skills, workforce composition, and talent flows."
+  ],
+  "bestFor": "Teams looking for AI recruiting and workforce analytics",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "aura",
+  "name": "Aura",
+  "url": "https://www.getaura.ai",
+  "categories": [
+   "analytics"
+  ],
+  "description": "Aura is an AI-driven decision intelligence platform, transforming fragmented workforce data into actionable insights that empower organizations.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "Aura is an AI-driven decision intelligence platform, transforming fragmented workforce data into actionable insights that empower organizations."
+  ],
+  "bestFor": "Teams looking for AI recruiting and workforce analytics",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "draup",
+  "name": "Draup",
+  "url": "https://draup.com",
+  "categories": [
+   "analytics"
+  ],
+  "description": "Empower HR with AI workforce transformation and equip sales teams with autonomous AI sales agents. Powered by proprietary global labor and market data.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "Empower HR with AI workforce transformation and equip sales teams with autonomous AI sales agents.",
+   "Powered by proprietary global labor and market data."
+  ],
+  "bestFor": "Teams looking for AI recruiting and workforce analytics",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "pave",
+  "name": "Pave",
+  "url": "https://www.pave.com",
+  "categories": [
+   "analytics"
+  ],
+  "description": "What is compensation management software? Pave is the AI-native platform 9,000+ companies use to benchmark pay, price jobs, and run merit cycles in one place.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "What is compensation management software?",
+   "Pave is the AI-native platform 9,000+ companies use to benchmark pay, price jobs, and run merit cycles in one place."
+  ],
+  "bestFor": "Teams looking for AI recruiting and workforce analytics",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "joveo",
+  "name": "Joveo",
+  "url": "https://www.joveo.com",
+  "categories": [
+   "outreach"
+  ],
+  "description": "Orchestrate AI agents to run end-to-end recruiting workflows. Drive more qualified applicants, faster hires, and unmatched efficiency.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "Orchestrate AI agents to run end-to-end recruiting workflows.",
+   "Drive more qualified applicants, faster hires, and unmatched efficiency."
+  ],
+  "bestFor": "Teams looking for AI candidate outreach and attraction",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "recruitics",
+  "name": "Recruitics",
+  "url": "https://www.recruitics.com",
+  "categories": [
+   "analytics"
+  ],
+  "description": "Recruitics is the talent acquisition platform for companies where hiring never stops. Predict market shifts, attract talent, convert candidates to hires.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "Recruitics is the talent acquisition platform for companies where hiring never stops.",
+   "Predict market shifts, attract talent, convert candidates to hires."
+  ],
+  "bestFor": "Teams looking for AI recruiting and workforce analytics",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "talroo",
+  "name": "Talroo",
+  "url": "https://www.talroo.com",
+  "categories": [
+   "outreach"
+  ],
+  "description": "Discover Talroo's talent matching marketplace and revolutionize how you find frontline workers. Reach out to stop searching and start hiring.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "Discover Talroo's talent matching marketplace and revolutionize how you find frontline workers.",
+   "Reach out to stop searching and start hiring."
+  ],
+  "bestFor": "Teams looking for AI candidate outreach and attraction",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "amazinghiring",
+  "name": "AmazingHiring",
+  "url": "https://amazinghiring.com",
+  "categories": [
+   "sourcing"
+  ],
+  "description": "AmazingHiring combines advanced search across 50+ networks, contact info, outreach campaigns, messaging, and analytics - so you can hire the best talent faster, smarter, and easier.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "AmazingHiring combines advanced search across 50+ networks, contact info, outreach campaigns, messaging, and analytics - so you can hire the best talent faster, smarter, and easier."
+  ],
+  "bestFor": "Teams looking for AI candidate sourcing",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "lusha",
+  "name": "Lusha",
+  "url": "https://www.lusha.com",
+  "categories": [
+   "sourcing"
+  ],
+  "description": "Verified B2B data: 515M+ contacts, 132M in the US, and 26 buying signals. Available in Lusha Workspace, Claude, ChatGPT, the API and MCP.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "Verified B2B data: 515M+ contacts, 132M in the US, and 26 buying signals.",
+   "Available in Lusha Workspace, Claude, ChatGPT, the API and MCP."
+  ],
+  "bestFor": "Teams looking for AI candidate sourcing",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "contactout",
+  "name": "ContactOut",
+  "url": "https://contactout.com",
+  "categories": [
+   "sourcing"
+  ],
+  "description": "Most accurate email finder for personal and work email outreach. Email lookup, campaign tool, and AI writer. Get 10 credits free - no credit card required.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "Most accurate email finder for personal and work email outreach.",
+   "Email lookup, campaign tool, and AI writer.",
+   "Get 10 credits free - no credit card required."
+  ],
+  "bestFor": "Teams looking for AI candidate sourcing",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "rocketreach",
+  "name": "RocketReach",
+  "url": "https://rocketreach.co",
+  "categories": [
+   "sourcing"
+  ],
+  "description": "RocketReach finds email, phone & social media for 700M+ professionals. Try for free at rocketreach.co. Automate lead intelligence and streamline your outreach!",
+  "pricing": "Contact for pricing",
+  "features": [
+   "RocketReach finds email, phone & social media for 700M+ professionals.",
+   "Try for free at rocketreach.co.",
+   "Automate lead intelligence and streamline your outreach!"
+  ],
+  "bestFor": "Teams looking for AI candidate sourcing",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "signalhire",
+  "name": "SignalHire",
+  "url": "https://www.signalhire.com",
+  "categories": [
+   "sourcing"
+  ],
+  "description": "Use SignalHire email & phone number finder for your recruitment, sales or marketing needs. Our software helps you contact the best talents and leads.",
+  "pricing": "Free plan; Emails plan $69/month yearly ($82 monthly)",
+  "features": [
+   "Use SignalHire email & phone number finder for your recruitment, sales or marketing needs.",
+   "Our software helps you contact the best talents and leads."
+  ],
+  "bestFor": "Teams looking for AI candidate sourcing",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "kaspr",
+  "name": "Kaspr",
+  "url": "https://www.kaspr.io",
+  "categories": [
+   "sourcing"
+  ],
+  "description": "Spend less time prospecting and hit your quota. Kaspr is a LinkedIn Chrome Extension and web app that gives you access to B2B contact data in seconds.",
+  "pricing": "Free plan; Starter $49/user/mo; Business $79/user/mo (annual)",
+  "features": [
+   "Spend less time prospecting and hit your quota.",
+   "Kaspr is a LinkedIn Chrome Extension and web app that gives you access to B2B contact data in seconds."
+  ],
+  "bestFor": "Teams looking for AI candidate sourcing",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "apollo",
+  "name": "Apollo.io",
+  "url": "https://www.apollo.io",
+  "categories": [
+   "outreach"
+  ],
+  "description": "Apollo is the AI sales platform rebuilt as one connected AI GTM system: data, intelligence, and execution for the entire go-to-market motion.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "Apollo is the AI sales platform rebuilt as one connected AI GTM system: data, intelligence, and execution for the entire go-to-market motion."
+  ],
+  "bestFor": "Teams looking for AI candidate outreach and attraction",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "Up to 20% per referral",
+   "url": "https://www.apollo.io/partners",
+   "found": true
+  }
+ },
+ {
+  "slug": "herohunt",
+  "name": "HeroHunt.ai",
+  "url": "https://www.herohunt.ai",
+  "categories": [
+   "sourcing"
+  ],
+  "description": "HeroHunt.ai is an AI recruiter that searches up to 1 billion public profiles, screens candidates and contacts them by email and LinkedIn. 8-day free trial.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "HeroHunt.ai is an AI recruiter that searches up to 1 billion public profiles, screens candidates and contacts them by email and LinkedIn.",
+   "8-day free trial."
+  ],
+  "bestFor": "Teams looking for AI candidate sourcing",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "leonar",
+  "name": "Leonar",
+  "url": "https://www.leonar.app",
+  "categories": [
+   "sourcing"
+  ],
+  "description": "All-in-one ATS and CRM for recruiting agencies. Source from profiles, run multichannel outreach, and manage clients and deals.",
+  "pricing": "$149/user/month (annual prepaid)",
+  "features": [
+   "All-in-one ATS and CRM for recruiting agencies.",
+   "Source from profiles, run multichannel outreach, and manage clients and deals."
+  ],
+  "bestFor": "Teams looking for AI candidate sourcing",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "paraform",
+  "name": "Paraform",
+  "url": "https://www.paraform.com",
+  "categories": [
+   "sourcing"
+  ],
+  "description": "Paraform | The #1 Agentic Hiring Platform & Recruiter Marketplace",
+  "pricing": "Contact for pricing",
+  "features": [
+   "Paraform | The #1 Agentic Hiring Platform & Recruiter Marketplace"
+  ],
+  "bestFor": "Teams looking for AI candidate sourcing",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "rippling",
+  "name": "Rippling Recruiting",
+  "url": "https://www.rippling.com/recruiting",
+  "categories": [
+   "crm-ats"
+  ],
+  "description": "The first talent acquisition software that lets everyone \u2014 from recruiters and hiring managers to department heads \u2014 hire more efficiently.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "The first talent acquisition software that lets everyone \u2014 from recruiters and hiring managers to department heads \u2014 hire more efficiently."
+  ],
+  "bestFor": "Teams looking for AI applicant tracking / recruiting CRM",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "hireology",
+  "name": "Hireology",
+  "url": "https://hireology.com",
+  "categories": [
+   "crm-ats",
+   "job-descriptions"
+  ],
+  "description": "Hireology provides a recruitment platform that is built for the specific hiring needs of multi-location retail automotive, hospitality, and facility based healthcare.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "Hireology provides a recruitment platform that is built for the specific hiring needs of multi-location retail automotive, hospitality, and facility based healthcare."
+  ],
+  "bestFor": "Teams looking for AI applicant tracking / recruiting CRM",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "workday",
+  "name": "Workday Recruiting",
+  "url": "https://www.workday.com/en-us/products/talent-management/talent-acquisition.html",
+  "categories": [
+   "crm-ats"
+  ],
+  "description": "Find, engage, and hire talent faster with Talent Acquisition Software from Workday. Unify sourcing, recruiting, and onboarding in one intelligent system.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "Find, engage, and hire talent faster with Talent Acquisition Software from Workday.",
+   "Unify sourcing, recruiting, and onboarding in one intelligent system."
+  ],
+  "bestFor": "Teams looking for AI applicant tracking / recruiting CRM",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "mercerMettl",
+  "name": "Mercer Mettl",
+  "url": "https://mettl.com",
+  "categories": [
+   "assessments"
+  ],
+  "description": "Online assessments with virtual talent assessment tools by Mercer | Mettl. Best remote assessment company for organizational & employee talent mapping, management & acquisition. Take a free demo",
+  "pricing": "Contact for pricing",
+  "features": [
+   "Online assessments with virtual talent assessment tools by Mercer | Mettl.",
+   "Best remote assessment company for organizational & employee talent mapping, management & acquisition.",
+   "Take a free demo"
+  ],
+  "bestFor": "Teams looking for AI skills assessments",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "wonderlic",
+  "name": "Wonderlic",
+  "url": "https://wonderlic.com",
+  "categories": [
+   "assessments"
+  ],
+  "description": "Wonderlic helps businesses hire, develop, and retain top talent with science-backed assessments and tools. Transform your workforce today.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "Wonderlic helps businesses hire, develop, and retain top talent with science-backed assessments and tools.",
+   "Transform your workforce today."
+  ],
+  "bestFor": "Teams looking for AI skills assessments",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "shl",
+  "name": "SHL",
+  "url": "https://www.shl.com",
+  "categories": [
+   "assessments"
+  ],
+  "description": "SHL's solutions and platform provide your organization with the power and scale for your business to thrive because your people thrive.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "SHL's solutions and platform provide your organization with the power and scale for your business to thrive because your people thrive."
+  ],
+  "bestFor": "Teams looking for AI skills assessments",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "yello",
+  "name": "Yello",
+  "url": "https://yello.co",
+  "categories": [
+   "interview-scheduling"
+  ],
+  "description": "Yello's talent acquisition software and recruitment CRM is used by Fortune 500 companies to attract and nurture top talent from hello to hire.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "Yello's talent acquisition software and recruitment CRM is used by Fortune 500 companies to attract and nurture top talent from hello to hire."
+  ],
+  "bestFor": "Teams looking for AI interview scheduling",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "ongig2",
+  "name": "Writer",
+  "url": "https://writer.com",
+  "categories": [
+   "job-descriptions"
+  ],
+  "description": "WRITER is the enterprise AI agent platform trusted by Fortune 500 companies, built to help teams execute and scale on-brand, compliant work.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "WRITER is the enterprise AI agent platform trusted by Fortune 500 companies, built to help teams execute and scale on-brand, compliant work."
+  ],
+  "bestFor": "Teams looking for AI writing job descriptions",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "copyai",
+  "name": "Copy.ai",
+  "url": "https://www.copy.ai",
+  "categories": [
+   "job-descriptions"
+  ],
+  "description": "Introducing the first-ever GTM AI platform. Automate hundreds of tedious, repetitive tasks and empower your team to scale success like never before.",
+  "pricing": "From $24/mo billed annually ($29 monthly)",
+  "features": [
+   "Introducing the first-ever GTM AI platform.",
+   "Automate hundreds of tedious, repetitive tasks and empower your team to scale success like never before."
+  ],
+  "bestFor": "Teams looking for AI writing job descriptions",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "grammarly",
+  "name": "Grammarly",
+  "url": "https://www.grammarly.com",
+  "categories": [
+   "job-descriptions"
+  ],
+  "description": "Grammarly makes AI writing convenient. Work smarter with personalized AI guidance and text generation on any app or website.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "Grammarly makes AI writing convenient.",
+   "Work smarter with personalized AI guidance and text generation on any app or website."
+  ],
+  "bestFor": "Teams looking for AI writing job descriptions",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "hirevireo",
+  "name": "HireVire",
+  "url": "https://www.hirevire.com",
+  "categories": [
+   "screening"
+  ],
+  "description": "Hirevire is one-way video interview software. Collect video, audio, and text responses, and manage hiring from Claude or ChatGPT. Try it free.",
+  "pricing": "$39/mo (1 job) or $99/mo (5 jobs), billed yearly",
+  "features": [
+   "Hirevire is one-way video interview software.",
+   "Collect video, audio, and text responses, and manage hiring from Claude or ChatGPT.",
+   "Try it free."
+  ],
+  "bestFor": "Teams looking for AI candidate screening",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "breezy2",
+  "name": "Truffle",
+  "url": "https://www.hiretruffle.com",
+  "categories": [
+   "screening"
+  ],
+  "description": "Truffle is an AI screening platform for small teams doing high-volume hiring. Decide what each role is screened on, from resume criteria to one-way interview questions to assessments, and Truffle reads every applicant against it and ranks them with the evidence shown. The AI never auto-rejects anyone.",
+  "pricing": "$49/mo monthly; $99/mo or $199/mo billed annually",
+  "features": [
+   "Truffle is an AI screening platform for small teams doing high-volume hiring.",
+   "Decide what each role is screened on, from resume criteria to one-way interview questions to assessments, and Truffle reads every applicant against it and ranks them with the evidence shown.",
+   "The AI never auto-rejects anyone."
+  ],
+  "bestFor": "Teams looking for AI candidate screening",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "25% (terms on page)",
+   "url": "https://www.hiretruffle.com/partners",
+   "found": true
+  }
+ },
+ {
+  "slug": "textmetrics",
+  "name": "Textmetrics",
+  "url": "https://www.textmetrics.com",
+  "categories": [
+   "job-descriptions"
+  ],
+  "description": "Improve your content with AI-powered SEO, inclusivity and readability insights. Textmetrics helps teams write content that performs.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "Improve your content with AI-powered SEO, inclusivity and readability insights.",
+   "Textmetrics helps teams write content that performs."
+  ],
+  "bestFor": "Teams looking for AI writing job descriptions",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "developdiverse",
+  "name": "Develop Diverse",
+  "url": "https://www.developdiverse.com",
+  "categories": [
+   "job-descriptions"
+  ],
+  "description": "First impressions matter! A job description is the very first thing candidates see, so it\u2019s crucial to get it right. If not, you risk losing the right",
+  "pricing": "Contact for pricing",
+  "features": [
+   "First impressions matter!",
+   "A job description is the very first thing candidates see, so it\u2019s crucial to get it right.",
+   "If not, you risk losing the right"
+  ],
+  "bestFor": "Teams looking for AI writing job descriptions",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "wellfound",
+  "name": "Wellfound",
+  "url": "https://wellfound.com",
+  "categories": [
+   "sourcing"
+  ],
+  "description": "Wellfound is the AI recruiting platform and talent marketplace for startups. Post jobs free, deploy AI sourcing agents, or hire with a dedicated recruiter.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "Wellfound is the AI recruiting platform and talent marketplace for startups.",
+   "Post jobs free, deploy AI sourcing agents, or hire with a dedicated recruiter."
+  ],
+  "bestFor": "Teams looking for AI candidate sourcing",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "leoforce",
+  "name": "Arya by Leoforce",
+  "url": "https://leoforce.com",
+  "categories": [
+   "sourcing"
+  ],
+  "description": "Better Hiring | LeoforceLeoforce AI recruiting software helps teams find, screen, and engage qualified candidates while reducing hiring costs and time spent per job.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "Better Hiring | LeoforceLeoforce AI recruiting software helps teams find, screen, and engage qualified candidates while reducing hiring costs and time spent per job."
+  ],
+  "bestFor": "Teams looking for AI candidate sourcing",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "gloat",
+  "name": "Gloat",
+  "url": "https://gloat.com",
+  "categories": [
+   "analytics"
+  ],
+  "description": "Explore Gloat's agentic HR platform with purpose-built AI tools for talent matching, skills clustering, career pathing, and workforce redesign & more.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "Explore Gloat's agentic HR platform with purpose-built AI tools for talent matching, skills clustering, career pathing, and workforce redesign & more."
+  ],
+  "bestFor": "Teams looking for AI recruiting and workforce analytics",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "censia",
+  "name": "Censia",
+  "url": "https://www.censia.com",
+  "categories": [
+   "sourcing"
+  ],
+  "description": "Censia AI is the context layer for the human and AI enterprise, turning workforce data into the intelligence behind every headcount and org decision.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "Censia AI is the context layer for the human and AI enterprise, turning workforce data into the intelligence behind every headcount and org decision."
+  ],
+  "bestFor": "Teams looking for AI candidate sourcing",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "ziprecruiter",
+  "name": "ZipRecruiter",
+  "url": "https://www.ziprecruiter.com",
+  "categories": [
+   "outreach"
+  ],
+  "description": "Job board and hiring marketplace that uses AI to match employers with candidates.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "Job board and hiring marketplace that uses AI to match employers with candidates."
+  ],
+  "bestFor": "Teams looking for AI candidate outreach and attraction",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "linkedinrecruiter",
+  "name": "LinkedIn Recruiter",
+  "url": "https://business.linkedin.com/talent-solutions/recruiter",
+  "categories": [
+   "sourcing"
+  ],
+  "description": "Find and hire top talent faster with LinkedIn Recruiter. Explore powerful features to source, connect, and recruit the right candidates for your team.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "Find and hire top talent faster with LinkedIn Recruiter.",
+   "Explore powerful features to source, connect, and recruit the right candidates for your team."
+  ],
+  "bestFor": "Teams looking for AI candidate sourcing",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "jobylon",
+  "name": "Jobylon",
+  "url": "https://www.jobylon.com",
+  "categories": [
+   "crm-ats"
+  ],
+  "description": "Hire with the most flexible talent acquisition platform tailor-made for top employers and a unique focus on employer branding and candidate experience.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "Hire with the most flexible talent acquisition platform tailor-made for top employers and a unique focus on employer branding and candidate experience."
+  ],
+  "bestFor": "Teams looking for AI applicant tracking / recruiting CRM",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "converzai",
+  "name": "ConverzAI",
+  "url": "https://www.converzai.com",
+  "categories": [
+   "screening"
+  ],
+  "description": "ConverzAI's Virtual Recruiter works on autopilot eliminating human delays so you can scale to enterprise volume effortlessly and fill more jobs faster",
+  "pricing": "Contact for pricing",
+  "features": [
+   "ConverzAI's Virtual Recruiter works on autopilot eliminating human delays so you can scale to enterprise volume effortlessly and fill more jobs faster"
+  ],
+  "bestFor": "Teams looking for AI candidate screening",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "hirelogic",
+  "name": "HireLogic",
+  "url": "https://hirelogic.com",
+  "categories": [
+   "screening"
+  ],
+  "description": "HireLogic is the leader in AI interview notes and insights for staffing, recruiting, and HR organizations. Get automated notes and insights just by inviting HireLogic AI to listen to video, phone, or in-person interviews. Works for any size organization.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "HireLogic is the leader in AI interview notes and insights for staffing, recruiting, and HR organizations.",
+   "Get automated notes and insights just by inviting HireLogic AI to listen to video, phone, or in-person interviews.",
+   "Works for any size organization."
+  ],
+  "bestFor": "Teams looking for AI candidate screening",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "heymilo",
+  "name": "HeyMilo",
+  "url": "https://www.heymilo.ai",
+  "categories": [
+   "screening"
+  ],
+  "description": "HeyMilo's AI-powered interviewer streamlines high-volume recruiting, offering data-driven insights and unbiased candidate evaluations to help you hire top talent faster.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "HeyMilo's AI-powered interviewer streamlines high-volume recruiting, offering data-driven insights and unbiased candidate evaluations to help you hire top talent faster."
+  ],
+  "bestFor": "Teams looking for AI candidate screening",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "classet",
+  "name": "Classet",
+  "url": "https://www.classet.ai",
+  "categories": [
+   "screening"
+  ],
+  "description": "AI interviews and hiring platform for high-volume roles.",
+  "pricing": "From $249/month",
+  "features": [
+   "AI interviews and hiring platform for high-volume roles."
+  ],
+  "bestFor": "Teams looking for AI candidate screening",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked /affiliate, /affiliates, /affiliate-program, /partners, /partner-program, /referral)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "spott",
+  "name": "Spott",
+  "url": "https://www.spott.io",
+  "categories": [
+   "crm-ats"
+  ],
+  "description": "Spott is the AI-native ATS and CRM built for recruitment and staffing firms to manage candidates, clients and placements.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "AI-native ATS and CRM",
+   "Built for recruitment and staffing firms"
+  ],
+  "bestFor": "Recruitment and staffing agencies",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "None found (checked standard affiliate/partner paths)",
+   "url": null,
+   "found": false
+  }
+ },
+ {
+  "slug": "carv",
+  "name": "Carv",
+  "url": "https://www.carv.com",
+  "categories": [
+   "screening"
+  ],
+  "description": "Build, deploy, and manage recruitment agents at scale with Carv.",
+  "pricing": "Contact for pricing",
+  "features": [
+   "Recruitment AI agents",
+   "Built for scale"
+  ],
+  "bestFor": "Teams looking for AI recruiting agents",
+  "lastChecked": "2026-10-16",
+  "affiliate": {
+   "terms": "10% of first-year contract value (referral partner)",
+   "url": "https://www.carv.com/partner-program",
+   "found": true
+  }
+ }
+]
