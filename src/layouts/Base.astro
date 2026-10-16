@@ -1,0 +1,50 @@
+---
+import { SITE, u } from '../lib/site.js';
+const { title, description, schema = null, path = '/' } = Astro.props;
+const full = title.includes(SITE.name) ? title : `${title} | ${SITE.name}`;
+const canonical = SITE.url + path;
+---
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>{full}</title>
+<meta name="description" content={description} />
+<link rel="canonical" href={canonical} />
+<meta property="og:title" content={full} /><meta property="og:description" content={description} />
+<meta property="og:type" content="website" /><meta property="og:url" content={canonical} />
+<meta name="twitter:card" content="summary" />
+{schema && <script type="application/ld+json" set:html={JSON.stringify(schema)} />}
+<style is:global>
+:root{--bg:#f8fafc;--card:#fff;--ink:#0f172a;--mut:#64748b;--brand:#4f46e5;--line:#e2e8f0}
+*{box-sizing:border-box}body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;background:var(--bg);color:var(--ink);line-height:1.55}
+a{color:var(--brand);text-decoration:none}a:hover{text-decoration:underline}
+.wrap{max-width:1100px;margin:0 auto;padding:0 20px}
+header{background:#fff;border-bottom:1px solid var(--line)}header .wrap{display:flex;align-items:center;justify-content:space-between;gap:16px;padding:14px 20px;flex-wrap:wrap}
+.logo{font-weight:800;font-size:1.25rem;color:var(--ink)}.logo span{color:var(--brand)}
+nav a{margin-left:16px;color:var(--ink);font-size:.95rem}
+.hero{padding:48px 0 24px}.hero h1{font-size:clamp(1.8rem,4vw,2.8rem);margin:0 0 8px}.hero p{color:var(--mut);font-size:1.1rem;margin:0}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:16px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:18px;display:flex;flex-direction:column;gap:8px}
+.card h3{margin:0;font-size:1.1rem}.card p{margin:0;color:var(--mut);font-size:.93rem}
+.tag{display:inline-block;background:#eef2ff;color:var(--brand);border-radius:999px;padding:2px 10px;font-size:.78rem;margin:2px 4px 2px 0}
+.btn{display:inline-block;background:var(--brand);color:#fff;border-radius:10px;padding:10px 18px;font-weight:600;border:0;cursor:pointer}.btn:hover{text-decoration:none;opacity:.92}
+input,select{padding:11px 14px;border:1px solid var(--line);border-radius:10px;font-size:1rem;background:#fff}
+.filters{display:flex;gap:10px;flex-wrap:wrap;margin:20px 0}.filters input{flex:1;min-width:220px}
+section{margin:36px 0}h2{font-size:1.5rem}
+table{width:100%;border-collapse:collapse;background:#fff;border-radius:12px;overflow:hidden}td,th{border:1px solid var(--line);padding:12px;text-align:left;vertical-align:top}th{background:#f1f5f9}
+.news{background:linear-gradient(135deg,#4f46e5,#7c3aed);color:#fff;border-radius:16px;padding:28px;margin:40px 0}.news p{opacity:.9}.news form{display:flex;gap:10px;flex-wrap:wrap}.news input{flex:1;min-width:200px;border:0}.news .btn{background:#0f172a}
+footer{border-top:1px solid var(--line);padding:28px 0;color:var(--mut);font-size:.9rem;margin-top:40px}
+.muted{color:var(--mut)}.crumbs{font-size:.9rem;margin-top:20px;color:var(--mut)}
+@media(max-width:640px){nav a{margin:0 12px 0 0}}
+</style>
+</head>
+<body>
+<header><div class="wrap"><a class="logo" href={u("/")}>Recruit<span>AI</span>Stack</a>
+<nav><a href={u("/#categories")}>Categories</a><a href={u("/best/")}>Best AI for…</a><a href={u("/compare/")}>Compare</a><a href={u("/submit/")}>Submit a tool</a><a href={u("/advertise/")}>Advertise</a></nav></div></header>
+<main class="wrap"><slot /></main>
+<div class="wrap"><div class="news" id="newsletter"><h2 style="margin-top:0">The weekly AI recruiting stack</h2><p>New AI tools for recruiters, price changes and what's actually worth trying. One email a week, free.</p>
+<form onsubmit="event.preventDefault();this.innerHTML='<p>Thanks — newsletter launching soon.</p>'"><input type="email" required placeholder="you@agency.com" aria-label="Email" /><button class="btn">Subscribe</button></form></div></div>
+<footer><div class="wrap">© 2026 {SITE.name} · Independent directory. Pricing as shown on vendor sites on the last-checked date; always confirm with the vendor.<br/>Affiliate disclosure: tools marked “Partner” run partner programs, and RecruitAIStack may earn a commission if you buy through links on this site, at no extra cost to you. · <a href={u("/advertise/")}>Advertise</a> · <a href={u("/submit/")}>Submit a tool</a></div></footer>
+</body></html>

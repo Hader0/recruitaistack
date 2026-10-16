@@ -1,0 +1,8 @@
+---
+import { catName, u } from '../lib/site.js';
+const { t } = Astro.props;
+---
+<a class="card tool" href={u(`/tools/${t.slug}/`)} data-name={t.name.toLowerCase()} data-cats={t.categories.join(' ')} data-text={(t.description + ' ' + t.bestFor).toLowerCase()} style="color:inherit;text-decoration:none">
+<h3>{t.name}{t.affiliate?.found && <span class="tag" style="margin-left:8px;background:#ecfdf5;color:#047857">Partner</span>}</h3><p>{t.description.slice(0,140)}{t.description.length>140?'…':''}</p>
+<div>{t.categories.map((c) => <span class="tag">{catName(c)}</span>)}</div>
+<p style="font-size:.85rem"><strong>Pricing:</strong> {t.pricing.length>70?t.pricing.slice(0,70)+'…':t.pricing}</p></a>
