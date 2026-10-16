@@ -1,8 +1,12 @@
 import rawTools from '../data/tools.json';
-const tools = [...rawTools].sort((a, b) => (b.affiliate?.found ? 1 : 0) - (a.affiliate?.found ? 1 : 0));
+// Editorial order: completeness of verified info (no commercial weighting).
+export const score = (t) => (t.pricing !== 'Contact for pricing' ? 2 : 0) + (!t.bestFor.startsWith('Teams looking for AI') ? 2 : 0) + Math.min(t.features.length, 3) / 3 + (t.description.length > 60 ? 1 : 0);
+const tools = [...rawTools].sort((a, b) => score(b) - score(a) || a.name.localeCompare(b.name));
+// Category order: tools whose main category matches first, then by completeness.
+export const inCategory = (slug) => tools.filter((t) => t.categories.includes(slug)).sort((a, b) => (b.categories[0] === slug) - (a.categories[0] === slug) || score(b) - score(a));
 const BASE = import.meta.env.BASE_URL.replace(/\/$/, '');
 export const u = (p) => BASE + p;
-export const SITE = { name: 'RecruitAIStack', url: (import.meta.env.SITE || '').replace(/\/$/, '') + BASE, tagline: 'The directory of AI tools for recruiters' };
+export const SITE = { name: 'RecruitPicks', url: (import.meta.env.SITE || '').replace(/\/$/, '') + BASE, tagline: 'The directory of AI tools for recruiters' };
 export const categories = [
   { slug: 'sourcing', name: 'Sourcing', task: 'candidate sourcing', blurb: 'Find passive candidates across hundreds of millions of profiles.' },
   { slug: 'screening', name: 'Screening', task: 'candidate screening', blurb: 'Screen applicants with AI, video and interview intelligence.' },
@@ -22,3 +26,5 @@ export const pairs = [
 ];
 export { tools };
 export const bySlug = (s) => tools.find((t) => t.slug === s);
+export const logo = (t, sz = 64) => `https://www.google.com/s2/favicons?domain=${new URL(t.url).hostname}&sz=${sz}`;
+export const CHECKED = 'October 2026';

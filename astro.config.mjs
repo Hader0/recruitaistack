@@ -1,7 +1,8 @@
 import { defineConfig } from 'astro/config';
-// GitHub Pages defaults. For a custom domain set SITE_URL=https://recruitaistack.com and BASE_PATH=/
+// Defaults target the custom domain. The GitHub Pages workflow overrides these with
+// SITE_URL=https://hader0.github.io and BASE_PATH=/recruitaistack until the domain is live.
 export default defineConfig({
-  site: process.env.SITE_URL ?? 'https://hader0.github.io',
-  base: process.env.BASE_PATH ?? '/recruitaistack',
+  site: process.env.SITE_URL ?? 'https://recruitpicks.com',
+  base: process.env.BASE_PATH ?? '/',
   trailingSlash: 'always',
 });
