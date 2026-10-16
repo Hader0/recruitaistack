@@ -1,5 +1,6 @@
 ---
 import { SITE, u } from '../lib/site.js';
+import Logo from '../components/Logo.astro';
 const { title, description, schema = null, path = '/' } = Astro.props;
 const full = title.includes(SITE.name) ? title : `${title} | ${SITE.name}`;
 const canonical = SITE.url + path;
@@ -14,7 +15,9 @@ const canonical = SITE.url + path;
 <link rel="canonical" href={canonical} />
 <meta property="og:title" content={full} /><meta property="og:description" content={description} />
 <meta property="og:type" content="website" /><meta property="og:url" content={canonical} />
-<meta name="twitter:card" content="summary" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="og:image" content={SITE.url + "/og.png"} /><meta name="twitter:image" content={SITE.url + "/og.png"} /><meta property="og:site_name" content={SITE.name} />
+<link rel="icon" type="image/svg+xml" href={u("/favicon.svg")} /><link rel="apple-touch-icon" href={u("/apple-touch-icon.png")} /><meta name="theme-color" content="#4f46e5" />
 {schema && <script type="application/ld+json" set:html={JSON.stringify(schema)} />}
 <style is:global>
 :root{--bg:#f8fafc;--card:#fff;--ink:#0f172a;--mut:#64748b;--brand:#4f46e5;--line:#e2e8f0}
@@ -22,7 +25,7 @@ const canonical = SITE.url + path;
 a{color:var(--brand);text-decoration:none}a:hover{text-decoration:underline}
 .wrap{max-width:1100px;margin:0 auto;padding:0 20px}
 header{background:#fff;border-bottom:1px solid var(--line)}header .wrap{display:flex;align-items:center;justify-content:space-between;gap:16px;padding:14px 20px;flex-wrap:wrap}
-.logo{font-weight:800;font-size:1.25rem;color:var(--ink)}.logo span{color:var(--brand)}
+.brand{font-weight:800;font-size:1.25rem;color:var(--ink)}
 nav a{margin-left:16px;color:var(--ink);font-size:.95rem}
 .hero{padding:48px 0 24px}.hero h1{font-size:clamp(1.8rem,4vw,2.8rem);margin:0 0 8px}.hero p{color:var(--mut);font-size:1.1rem;margin:0}
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:16px}
@@ -38,13 +41,52 @@ table{width:100%;border-collapse:collapse;background:#fff;border-radius:12px;ove
 footer{border-top:1px solid var(--line);padding:28px 0;color:var(--mut);font-size:.9rem;margin-top:40px}
 .muted{color:var(--mut)}.crumbs{font-size:.9rem;margin-top:20px;color:var(--mut)}
 @media(max-width:640px){nav a{margin:0 12px 0 0}}
+
+body{font-family:Inter,ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;-webkit-font-smoothing:antialiased}
+h1,h2,h3{letter-spacing:-.02em}
+header{position:sticky;top:0;z-index:10;backdrop-filter:saturate(1.4) blur(8px);background:rgba(255,255,255,.88)}
+nav{display:flex;gap:4px;overflow-x:auto;white-space:nowrap;scrollbar-width:none}nav a{margin:0;padding:6px 10px;border-radius:8px}nav a:hover{background:#f1f5f9;text-decoration:none}
+nav a.cta{background:var(--ink);color:#fff}
+.hero{padding:56px 0 20px;text-align:center}.hero p{max-width:680px;margin:0 auto}
+.hero.left{text-align:left}.hero.left p{margin:0}
+.stats{display:flex;justify-content:center;gap:22px;flex-wrap:wrap;margin:18px 0 0;color:var(--mut);font-size:.9rem}.stats b{color:var(--ink)}
+.search{max-width:720px;margin:26px auto 0;display:flex;gap:10px;flex-wrap:wrap}.search input{flex:1;min-width:220px;padding:14px 16px;font-size:1.05rem;box-shadow:0 1px 2px rgba(0,0,0,.04)}
+.chips{display:flex;gap:8px;flex-wrap:wrap;justify-content:center;margin:16px 0 8px}.chip{border:1px solid var(--line);background:#fff;border-radius:999px;padding:6px 14px;font-size:.88rem;cursor:pointer;color:var(--ink)}.chip.on,.chip:hover{background:var(--ink);color:#fff;border-color:var(--ink);text-decoration:none}
+.card.tool{color:inherit;text-decoration:none;transition:box-shadow .15s,transform .15s,border-color .15s}.card.tool:hover{box-shadow:0 8px 24px rgba(15,23,42,.08);transform:translateY(-2px);border-color:#c7d2fe}
+.th{display:flex;align-items:center;gap:12px}.th h3{font-size:1.05rem}.logo{width:40px;height:40px;border-radius:10px;border:1px solid var(--line);background:#fff;padding:4px;flex:none}
+.cat{font-size:.78rem;color:var(--mut)}.partner{margin-left:auto;font-size:.7rem;color:#047857;background:#ecfdf5;border-radius:6px;padding:2px 7px;font-weight:600}
+.desc{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;min-height:2.9em}
+.price{margin-top:auto;padding-top:10px;border-top:1px dashed var(--line);font-size:.83rem;color:var(--ink)}.price span{display:-webkit-box;-webkit-line-clamp:1;-webkit-box-orient:vertical;overflow:hidden}
+.card.tool.more{display:none}.showmore{display:block;margin:24px auto 0}
+.trust{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:14px;margin:40px 0}.trust div{background:#fff;border:1px solid var(--line);border-radius:14px;padding:16px;font-size:.92rem;color:var(--mut)}.trust b{display:block;color:var(--ink);margin-bottom:4px}
+.toolhead{display:flex;gap:18px;align-items:center}.toolhead img{width:72px;height:72px;border-radius:16px;border:1px solid var(--line);background:#fff;padding:8px}
+.note{background:#fffbeb;border:1px solid #fde68a;border-radius:12px;padding:12px 14px;font-size:.88rem;color:#78350f;margin-top:16px}
+@media(max-width:640px){.hero{padding:32px 0 12px}header .wrap{padding:10px 16px}}
+
+.hd{display:flex;align-items:center;gap:20px;height:64px;padding-top:0!important;padding-bottom:0!important;flex-wrap:nowrap!important}
+.brand{display:flex;align-items:center}.brand:hover{text-decoration:none}
+.wm{display:inline-flex;align-items:center;gap:9px}.wt{font-weight:800;font-size:1.3rem;letter-spacing:-.03em;color:var(--ink)}.wt b{color:var(--brand);font-weight:800}
+.dnav{margin-left:auto;overflow:visible}.btn.sm{padding:8px 14px;font-size:.9rem;border-radius:9px;white-space:nowrap}
+.mnav{display:none;margin-left:auto;position:relative}.mnav summary{list-style:none;cursor:pointer;width:42px;height:42px;border:1px solid var(--line);border-radius:10px;display:flex;flex-direction:column;justify-content:center;align-items:center;gap:4px;background:#fff}.mnav summary::-webkit-details-marker{display:none}
+.mnav summary span{width:18px;height:2px;background:var(--ink);border-radius:2px;transition:.2s}.mnav[open] summary span:nth-child(1){transform:translateY(6px) rotate(45deg)}.mnav[open] summary span:nth-child(2){opacity:0}.mnav[open] summary span:nth-child(3){transform:translateY(-6px) rotate(-45deg)}
+.mnav .panel{position:absolute;right:0;top:52px;width:min(280px,calc(100vw - 32px));background:#fff;border:1px solid var(--line);border-radius:14px;box-shadow:0 16px 40px rgba(15,23,42,.14);padding:8px;display:flex;flex-direction:column}
+.mnav .panel a{padding:12px 14px;border-radius:9px;color:var(--ink)}.mnav .panel a:hover{background:#f1f5f9;text-decoration:none}.mnav .panel .btn{color:#fff;text-align:center;margin-top:6px}
+@media(max-width:860px){.dnav,.dsub{display:none}.mnav{display:block}}
+html,body{overflow-x:hidden}img,svg{max-width:100%}
+table{min-width:0;table-layout:fixed}@media(max-width:640px){td,th{padding:8px;font-size:.82rem;overflow-wrap:break-word;hyphens:auto}tr>th:first-child{width:24%}th .logo{display:none}}
+.news form .btn{flex:none}
+@media(max-width:640px){.news{padding:20px}.hero h1{font-size:1.75rem}.toolhead img{width:56px;height:56px}.grid{grid-template-columns:1fr}}
+@media(min-width:641px) and (max-width:1024px){.grid{grid-template-columns:repeat(2,1fr)}}
 </style>
 </head>
 <body>
-<header><div class="wrap"><a class="logo" href={u("/")}>Recruit<span>AI</span>Stack</a>
-<nav><a href={u("/#categories")}>Categories</a><a href={u("/best/")}>Best AI for…</a><a href={u("/compare/")}>Compare</a><a href={u("/submit/")}>Submit a tool</a><a href={u("/advertise/")}>Advertise</a></nav></div></header>
+<header><div class="wrap hd"><a class="brand" href={u("/")} aria-label="RecruitPicks home"><Logo /></a>
+<nav class="dnav" aria-label="Main"><a href={u("/#categories")}>Categories</a><a href={u("/best/")}>Best AI for…</a><a href={u("/compare/")}>Compare</a><a href={u("/about/")}>How we list</a></nav>
+<a class="btn sm dsub" href={u("/submit/")}>Submit a tool</a>
+<details class="mnav"><summary aria-label="Open menu"><span></span><span></span><span></span></summary><div class="panel"><a href={u("/#categories")}>Categories</a><a href={u("/best/")}>Best AI for…</a><a href={u("/compare/")}>Compare</a><a href={u("/about/")}>How we list</a><a href={u("/advertise/")}>Advertise</a><a class="btn" href={u("/submit/")}>Submit a tool</a></div></details>
+</div></header>
 <main class="wrap"><slot /></main>
 <div class="wrap"><div class="news" id="newsletter"><h2 style="margin-top:0">The weekly AI recruiting stack</h2><p>New AI tools for recruiters, price changes and what's actually worth trying. One email a week, free.</p>
 <form onsubmit="event.preventDefault();this.innerHTML='<p>Thanks — newsletter launching soon.</p>'"><input type="email" required placeholder="you@agency.com" aria-label="Email" /><button class="btn">Subscribe</button></form></div></div>
-<footer><div class="wrap">© 2026 {SITE.name} · Independent directory. Pricing as shown on vendor sites on the last-checked date; always confirm with the vendor.<br/>Affiliate disclosure: tools marked “Partner” run partner programs, and RecruitAIStack may earn a commission if you buy through links on this site, at no extra cost to you. · <a href={u("/advertise/")}>Advertise</a> · <a href={u("/submit/")}>Submit a tool</a></div></footer>
+<footer><div class="wrap">© 2026 {SITE.name} · Independent directory. Pricing as shown on vendor sites on the last-checked date; always confirm with the vendor.<br/>Affiliate disclosure: tools marked “Partner” run partner programs, and RecruitPicks may earn a commission if you buy through links on this site, at no extra cost to you. · <a href={u("/about/")}>How we list tools</a> · <a href={u("/advertise/")}>Advertise</a> · <a href={u("/submit/")}>Submit a tool</a></div></footer>
 </body></html>
