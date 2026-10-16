@@ -1,14 +1,13 @@
 ---
 import Base from '../../layouts/Base.astro';
-import { tools, categories, SITE, u } from '../../lib/site.js';
+import { tools, categories, SITE, u, inCategory } from '../../lib/site.js';
 export function getStaticPaths(){ return categories.map((c)=>({params:{slug:c.slug},props:{c}})); }
 const { c } = Astro.props;
-const base = tools.filter((t)=>t.categories[0]===c.slug).concat(tools.filter((t)=>t.categories.includes(c.slug)&&t.categories[0]!==c.slug));
-const list = [...base].sort((a,b)=>(b.affiliate?.found?1:0)-(a.affiliate?.found?1:0));
+const list = inCategory(c.slug);
 const schema={'@context':'https://schema.org','@type':'ItemList',name:`Best AI for ${c.task}`,itemListElement:list.map((t,i)=>({'@type':'ListItem',position:i+1,url:`${SITE.url}/tools/${t.slug}/`,name:t.name}))};
 ---
 <Base title={`Best AI for ${c.task.replace(/^./,(m)=>m.toUpperCase())} (2026)`} description={`The best AI tools for ${c.task}, with pricing and who each one suits.`} schema={schema} path={`/best/${c.slug}/`}>
 <p class="crumbs"><a href={u("/")}>Home</a> / <a href={u("/best/")}>Best AI for…</a> / {c.name}</p>
-<div class="hero"><h1>Best AI for {c.task}</h1><p>{c.blurb} Specialist tools first, then platforms that also cover {c.task}.</p></div>
+<div class="hero left"><h1>Best AI for {c.task}</h1><p>{c.blurb} Specialist tools first, then platforms that also cover {c.task}; within each group, tools with the most complete verified information come first.</p></div>
 <ol>{list.map((t)=><li style="margin-bottom:14px"><a href={u(`/tools/${t.slug}/`)}><strong>{t.name}</strong></a>{t.affiliate?.found && <span class="tag" style="margin-left:6px;background:#ecfdf5;color:#047857">Partner</span>}: best for {t.bestFor.toLowerCase()}. <span class="muted">Pricing: {t.pricing}</span></li>)}</ol>
 </Base>

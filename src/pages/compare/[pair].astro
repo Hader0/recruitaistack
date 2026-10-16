@@ -1,13 +1,13 @@
 ---
 import Base from '../../layouts/Base.astro';
-import { pairs, bySlug, catName, u } from '../../lib/site.js';
+import { pairs, bySlug, catName, u, logo } from '../../lib/site.js';
 export function getStaticPaths(){ return pairs.map(([a,b])=>({params:{pair:`${a}-vs-${b}`},props:{a:bySlug(a),b:bySlug(b)}})); }
 const { a, b } = Astro.props;
 const rows=[['What it does',(t)=>t.description],['Pricing',(t)=>t.pricing],['Best for',(t)=>t.bestFor],['Categories',(t)=>t.categories.map(catName).join(', ')],['Key features',(t)=>t.features.join(' · ')],['Last checked',(t)=>t.lastChecked]];
 ---
 <Base title={`${a.name} vs ${b.name} for Recruiters (2026)`} description={`${a.name} vs ${b.name}: side-by-side pricing, features and who each is best for.`} path={`/compare/${a.slug}-vs-${b.slug}/`}>
 <p class="crumbs"><a href={u("/")}>Home</a> / <a href={u("/compare/")}>Compare</a> / {a.name} vs {b.name}</p>
-<div class="hero"><h1>{a.name} vs {b.name}</h1><p>Short version: {a.name} is best for {a.bestFor.toLowerCase()}; {b.name} is best for {b.bestFor.toLowerCase()}.</p></div>
-<div style="overflow-x:auto"><table><tr><th></th><th><a href={u(`/tools/${a.slug}/`)}>{a.name}</a></th><th><a href={u(`/tools/${b.slug}/`)}>{b.name}</a></th></tr>
+<div class="hero left"><h1>{a.name} vs {b.name}</h1><p>Short version: {a.name} is best for {a.bestFor.toLowerCase()}; {b.name} is best for {b.bestFor.toLowerCase()}.</p></div>
+<div style="overflow-x:auto"><table><tr><th></th><th><a href={u(`/tools/${a.slug}/`)}><img class="logo" src={logo(a)} alt="" style="vertical-align:middle;margin-right:8px" />{a.name}</a></th><th><a href={u(`/tools/${b.slug}/`)}><img class="logo" src={logo(b)} alt="" style="vertical-align:middle;margin-right:8px" />{b.name}</a></th></tr>
 {rows.map(([l,f])=><tr><th>{l}</th><td>{f(a)}</td><td>{f(b)}</td></tr>)}</table></div>
 </Base>
