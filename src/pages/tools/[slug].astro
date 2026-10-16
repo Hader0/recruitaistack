@@ -1,0 +1,19 @@
+---
+import Base from '../../layouts/Base.astro';
+import { tools, catName, pairs, bySlug, u } from '../../lib/site.js';
+export function getStaticPaths(){ return tools.map((t)=>({params:{slug:t.slug},props:{t}})); }
+const { t } = Astro.props;
+const comps = pairs.filter((p)=>p.includes(t.slug));
+const schema={'@context':'https://schema.org','@type':'SoftwareApplication',name:t.name,url:t.url,applicationCategory:'BusinessApplication',operatingSystem:'Web',description:t.description,offers:{'@type':'Offer',description:t.pricing}};
+---
+<Base title={`${t.name}: Pricing, Features & Review for Recruiters`} description={`${t.name} for recruiters: ${t.description.slice(0,110)} Pricing: ${t.pricing.slice(0,60)}.`} schema={schema} path={`/tools/${t.slug}/`}>
+<p class="crumbs"><a href={u("/")}>Home</a> / <a href={u(`/category/${t.categories[0]}/`)}>{catName(t.categories[0])}</a> / {t.name}</p>
+<div class="hero"><h1>{t.name}</h1><p>{t.description}</p><p style="margin-top:12px">{t.categories.map((c)=><a class="tag" href={u(`/category/${c}/`)}>{catName(c)}</a>)}</p></div>
+<div class="grid">
+<div class="card"><h3>Pricing</h3><p style="color:var(--ink)">{t.pricing}</p><p style="font-size:.8rem">As shown on the vendor site. Last checked {t.lastChecked}.</p></div>
+<div class="card"><h3>Best for</h3><p style="color:var(--ink)">{t.bestFor}</p></div>
+<div class="card"><h3>Key features</h3><ul style="margin:0;padding-left:18px">{t.features.map((f)=><li>{f}</li>)}</ul></div>
+</div>
+<p style="margin-top:24px"><a class="btn" href={t.url} rel="nofollow noopener" target="_blank">Visit {t.name} →</a></p>
+{comps.length>0 && <section><h2>Compare {t.name}</h2><ul>{comps.map(([a,b])=><li><a href={u(`/compare/${a}-vs-${b}/`)}>{bySlug(a).name} vs {bySlug(b).name}</a></li>)}</ul></section>}
+</Base>
